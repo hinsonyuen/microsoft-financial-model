@@ -4,3 +4,5 @@ __pycache__/
 .env.*
 node_modules/
 ~$*
+outputs/msft-model/*.png
+outputs/msft-model/*.inspect.ndjson

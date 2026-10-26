@@ -2,7 +2,13 @@
 
 Research cutoff: **October 26, 2026**. Currency: USD. Microsoft's fiscal year ends June 30; FY2026 covers July 1, 2025–June 30, 2026.
 
-This repository contains the historical data and source documents needed to build an annual three-statement forecast and a discounted cash flow (DCF) valuation. It is a research starting point, not a completed forecast or estimate of fair value. A five-year forecast (FY2027–FY2031) is a practical first model.
+This repository contains historical research inputs and an illustrative annual three-statement forecast and discounted cash flow (DCF) valuation. The Excel model forecasts FY2027–FY2031, keeping reported historical facts separate from editable analyst assumptions.
+
+## Excel model
+
+The completed illustrative model is [Microsoft_Five_Year_Model.xlsx](outputs/msft-model/Microsoft_Five_Year_Model.xlsx). It contains FY2022–FY2026 actuals, a linked FY2027–FY2031 forecast, capital and lease schedules, debt and share schedules, a DCF, a native two-variable sensitivity table, and a Guide worksheet explaining the assumptions. See [the model walkthrough](docs/model-walkthrough.md).
+
+The initial base case estimates $355.12 per share at October 26, 2026, using 9.55% WACC and 3% terminal growth. This is an analyst-assumption output, not a reported company value. The statement and scenario checks pass, including changing a revenue driver and restoring the base case. The source package below remains an unchanged historical research foundation.
 
 ## What we need, and why
 

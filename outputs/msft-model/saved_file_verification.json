@@ -1,0 +1,19 @@
+{
+  "worksheets": 10,
+  "formulas": 1692,
+  "native_data_tables": [
+    {
+      "t": "dataTable",
+      "ref": "G46:K50",
+      "dt2D": "1",
+      "r1": "D18",
+      "r2": "D17"
+    }
+  ],
+  "chart_series": 2,
+  "formula_errors": [],
+  "fair_value_per_share": 355.1197880108746,
+  "sensitivity_low": 283.7882690000376,
+  "sensitivity_high": 486.3926343712588,
+  "cached_values_match_verified_model": true
+}
