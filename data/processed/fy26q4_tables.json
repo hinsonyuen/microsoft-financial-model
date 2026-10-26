@@ -1,0 +1,1178 @@
+{
+  "source": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast",
+  "tables": [
+    [
+      [
+        "Three Months Ended June 30,"
+      ],
+      [
+        "",
+        "2026",
+        "",
+        "2025",
+        "",
+        "Percentage Change Y/Y",
+        "",
+        "Percentage Change Y/Y"
+      ],
+      [
+        "($ in millions, except per share amounts)",
+        "As Reported (GAAP)",
+        "Impact from OpenAI*",
+        "As Adjusted (non-GAAP)",
+        "",
+        "As Reported (GAAP)",
+        "Impact from OpenAI*",
+        "As Adjusted (non-GAAP)",
+        "",
+        "GAAP",
+        "Constant Currency",
+        "Net Impact from OpenAI*",
+        "Non-GAAP",
+        "Non-GAAP Constant Currency"
+      ],
+      [
+        "Net Income",
+        "$35,766",
+        "$(480)",
+        "$35,286",
+        "",
+        "$27,233",
+        "$1,575",
+        "$28,808",
+        "",
+        "31%",
+        "31%",
+        "$(2,055)",
+        "22%",
+        "22%"
+      ],
+      [
+        "Diluted Earnings per Share",
+        "$4.81",
+        "$(0.07)",
+        "$4.74",
+        "",
+        "$3.65",
+        "$0.21",
+        "$3.86",
+        "",
+        "32%",
+        "32%",
+        "$(0.28)",
+        "23%",
+        "23%"
+      ]
+    ],
+    [
+      [
+        "Twelve Months Ended June 30,"
+      ],
+      [
+        "",
+        "2026",
+        "",
+        "2025",
+        "",
+        "Percentage Change Y/Y",
+        "",
+        "Percentage Change Y/Y"
+      ],
+      [
+        "($ in millions, except per share amounts)",
+        "As Reported (GAAP)",
+        "Impact from OpenAI*",
+        "As Adjusted (non-GAAP)",
+        "",
+        "As Reported (GAAP)",
+        "Impact from OpenAI*",
+        "As Adjusted (non-GAAP)",
+        "",
+        "GAAP",
+        "Constant Currency",
+        "Net Impact from OpenAI*",
+        "Non-GAAP",
+        "Non-GAAP Constant Currency"
+      ],
+      [
+        "Net Income",
+        "$133,749",
+        "$(4,963)",
+        "$128,786",
+        "",
+        "$101,832",
+        "$3,620",
+        "$105,452",
+        "",
+        "31%",
+        "30%",
+        "$(8,583)",
+        "22%",
+        "20%"
+      ],
+      [
+        "Diluted Earnings per Share",
+        "$17.95",
+        "$(0.67)",
+        "$17.28",
+        "",
+        "$13.64",
+        "$0.49",
+        "$14.13",
+        "",
+        "32%",
+        "30%",
+        "$(1.16)",
+        "22%",
+        "21%"
+      ]
+    ],
+    [
+      [
+        "Three Months Ended June 30,"
+      ],
+      [
+        "($ in millions, except per share amounts)",
+        "2026",
+        "",
+        "2025",
+        "",
+        "Percentage Change Y/Y",
+        "",
+        "Percentage Change Y/Y"
+      ],
+      [
+        "As Reported (GAAP)",
+        "As Adjusted (non-GAAP)",
+        "",
+        "As Reported (GAAP)",
+        "As Adjusted (non-GAAP)",
+        "",
+        "GAAP",
+        "Non- GAAP",
+        "Constant Currency Impact",
+        "Constant Currency",
+        "Non-GAAP Constant Currency"
+      ],
+      [
+        "Revenue",
+        "$90,007",
+        "-",
+        "",
+        "$76,441",
+        "-",
+        "",
+        "18%",
+        "-",
+        "$391",
+        "17%",
+        "-"
+      ],
+      [
+        "Operating Income",
+        "$40,603",
+        "-",
+        "",
+        "$34,323",
+        "-",
+        "",
+        "18%",
+        "-",
+        "$269",
+        "18%",
+        "-"
+      ],
+      [
+        "Net Income",
+        "$35,766",
+        "$35,286",
+        "",
+        "$27,233",
+        "$28,808",
+        "",
+        "31%",
+        "22%",
+        "$40",
+        "31%",
+        "22%"
+      ],
+      [
+        "Diluted Earnings per Share",
+        "$4.81",
+        "$4.74",
+        "",
+        "$3.65",
+        "$3.86",
+        "",
+        "32%",
+        "23%",
+        "$0.01",
+        "32%",
+        "23%"
+      ]
+    ],
+    [
+      [
+        "Twelve Months Ended June 30,"
+      ],
+      [
+        "($ in millions, except per share amounts)",
+        "2026",
+        "",
+        "2025",
+        "",
+        "Percentage Change Y/Y",
+        "",
+        "Percentage Change Y/Y"
+      ],
+      [
+        "As Reported (GAAP)",
+        "As Adjusted (non-GAAP)",
+        "",
+        "As Reported (GAAP)",
+        "As Adjusted (non-GAAP)",
+        "",
+        "GAAP",
+        "Non- GAAP",
+        "Constant Currency Impact",
+        "Constant Currency",
+        "Non-GAAP Constant Currency"
+      ],
+      [
+        "Revenue",
+        "$331,839",
+        "-",
+        "",
+        "$281,724",
+        "-",
+        "",
+        "18%",
+        "-",
+        "$4,445",
+        "16%",
+        "-"
+      ],
+      [
+        "Operating Income",
+        "$155,237",
+        "-",
+        "",
+        "$128,528",
+        "-",
+        "",
+        "21%",
+        "-",
+        "$2,896",
+        "19%",
+        "-"
+      ],
+      [
+        "Net Income",
+        "$133,749",
+        "$128,786",
+        "",
+        "$101,832",
+        "$105,452",
+        "",
+        "31%",
+        "22%",
+        "$1,772",
+        "30%",
+        "20%"
+      ],
+      [
+        "Diluted Earnings per Share",
+        "$17.95",
+        "$17.28",
+        "",
+        "$13.64",
+        "$14.13",
+        "",
+        "32%",
+        "22%",
+        "$0.24",
+        "30%",
+        "21%"
+      ]
+    ],
+    [
+      [
+        "Three Months Ended June 30,"
+      ],
+      [
+        "($ in millions)",
+        "2026",
+        "",
+        "2025",
+        "",
+        "Percentage Change Y/Y",
+        "Constant Currency Impact",
+        "Percentage Change Y/Y"
+      ],
+      [
+        "As Reported (GAAP)",
+        "",
+        "As Reported (GAAP)",
+        "",
+        "GAAP",
+        "Constant Currency"
+      ],
+      [
+        "Productivity and Business Processes",
+        "$37,847",
+        "",
+        "$33,112",
+        "",
+        "14%",
+        "$244",
+        "14%"
+      ],
+      [
+        "Intelligent Cloud",
+        "$39,306",
+        "",
+        "$29,878",
+        "",
+        "32%",
+        "$80",
+        "31%"
+      ],
+      [
+        "More Personal Computing",
+        "$12,854",
+        "",
+        "$13,451",
+        "",
+        "(4)%",
+        "$67",
+        "(5)%"
+      ]
+    ],
+    [
+      [
+        "Three Months Ended June 30, 2026"
+      ],
+      [
+        "",
+        "Percentage Change Y/Y (GAAP)",
+        "Constant Currency Impact",
+        "Percentage Change Y/Y Constant Currency"
+      ],
+      [
+        "Microsoft Cloud revenue",
+        "27%",
+        "0%",
+        "27%"
+      ],
+      [
+        "Commercial remaining performance obligation",
+        "84%",
+        "0%",
+        "84%"
+      ],
+      [
+        "Microsoft 365 Commercial cloud revenue",
+        "14%",
+        "0%",
+        "14%"
+      ],
+      [
+        "Microsoft 365 Consumer cloud revenue",
+        "24%",
+        "(2)%",
+        "22%"
+      ],
+      [
+        "LinkedIn revenue",
+        "12%",
+        "(2)%",
+        "10%"
+      ],
+      [
+        "Dynamics 365 revenue",
+        "13%",
+        "(1)%",
+        "12%"
+      ],
+      [
+        "Azure and other cloud services revenue",
+        "43%",
+        "0%",
+        "43%"
+      ],
+      [
+        "Windows OEM and Devices revenue",
+        "(7)%",
+        "0%",
+        "(7)%"
+      ],
+      [
+        "XBOX content and services revenue",
+        "(10)%",
+        "0%",
+        "(10)%"
+      ],
+      [
+        "Search advertising revenue excluding traffic acquisition costs",
+        "10%",
+        "(1)%",
+        "9%"
+      ]
+    ],
+    [
+      [
+        "",
+        "Three Months Ended June 30,",
+        "",
+        "Twelve Months Ended June 30,"
+      ],
+      [
+        "",
+        "2026",
+        "",
+        "2025",
+        "",
+        "2026",
+        "",
+        "2025"
+      ],
+      [
+        "Revenue:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product",
+        "$17,234",
+        "",
+        "$17,136",
+        "",
+        "$64,696",
+        "",
+        "$63,946"
+      ],
+      [
+        "Service and other",
+        "72,773",
+        "",
+        "59,305",
+        "",
+        "267,143",
+        "",
+        "217,778"
+      ],
+      [
+        "Total revenue",
+        "90,007",
+        "",
+        "76,441",
+        "",
+        "331,839",
+        "",
+        "281,724"
+      ],
+      [
+        "Cost of revenue:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product",
+        "2,938",
+        "",
+        "3,314",
+        "",
+        "12,098",
+        "",
+        "13,501"
+      ],
+      [
+        "Service and other",
+        "26,587",
+        "",
+        "20,700",
+        "",
+        "94,276",
+        "",
+        "74,330"
+      ],
+      [
+        "Total cost of revenue",
+        "29,525",
+        "",
+        "24,014",
+        "",
+        "106,374",
+        "",
+        "87,831"
+      ],
+      [
+        "Gross margin",
+        "60,482",
+        "",
+        "52,427",
+        "",
+        "225,465",
+        "",
+        "193,893"
+      ],
+      [
+        "Research and development",
+        "9,997",
+        "",
+        "8,829",
+        "",
+        "35,562",
+        "",
+        "32,488"
+      ],
+      [
+        "Sales and marketing",
+        "7,595",
+        "",
+        "7,285",
+        "",
+        "26,710",
+        "",
+        "25,654"
+      ],
+      [
+        "General and administrative",
+        "2,287",
+        "",
+        "1,990",
+        "",
+        "7,956",
+        "",
+        "7,223"
+      ],
+      [
+        "Operating income",
+        "40,603",
+        "",
+        "34,323",
+        "",
+        "155,237",
+        "",
+        "128,528"
+      ],
+      [
+        "Other income (expense), net",
+        "3,444",
+        "",
+        "(1,707)",
+        "",
+        "10,697",
+        "",
+        "(4,901)"
+      ],
+      [
+        "Income before income taxes",
+        "44,047",
+        "",
+        "32,616",
+        "",
+        "165,934",
+        "",
+        "123,627"
+      ],
+      [
+        "Provision for income taxes",
+        "8,281",
+        "",
+        "5,383",
+        "",
+        "32,185",
+        "",
+        "21,795"
+      ],
+      [
+        "Net income",
+        "$35,766",
+        "",
+        "$27,233",
+        "",
+        "$133,749",
+        "",
+        "$101,832"
+      ],
+      [
+        "Earnings per share:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic",
+        "$4.82",
+        "",
+        "$3.66",
+        "",
+        "$18.00",
+        "",
+        "$13.70"
+      ],
+      [
+        "Diluted",
+        "$4.81",
+        "",
+        "$3.65",
+        "",
+        "$17.95",
+        "",
+        "$13.64"
+      ],
+      [
+        "Weighted average shares outstanding:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic",
+        "7,427",
+        "",
+        "7,432",
+        "",
+        "7,429",
+        "",
+        "7,433"
+      ],
+      [
+        "Diluted",
+        "7,443",
+        "",
+        "7,461",
+        "",
+        "7,453",
+        "",
+        "7,465"
+      ]
+    ],
+    [
+      [
+        "",
+        "Three Months Ended June 30,",
+        "",
+        "Twelve Months Ended June 30,"
+      ],
+      [
+        "",
+        "2026",
+        "",
+        "2025",
+        "",
+        "2026",
+        "",
+        "2025"
+      ],
+      [
+        "Net income",
+        "$35,766",
+        "",
+        "$27,233",
+        "",
+        "$133,749",
+        "",
+        "$101,832"
+      ],
+      [
+        "Other comprehensive income (loss), net of tax:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net change related to derivatives",
+        "14",
+        "",
+        "(9)",
+        "",
+        "8",
+        "",
+        "(5)"
+      ],
+      [
+        "Net change related to investments",
+        "(72)",
+        "",
+        "444",
+        "",
+        "215",
+        "",
+        "1,574"
+      ],
+      [
+        "Translation adjustments and other",
+        "2",
+        "",
+        "1,051",
+        "",
+        "(160)",
+        "",
+        "674"
+      ],
+      [
+        "Other comprehensive income (loss)",
+        "(56)",
+        "",
+        "1,486",
+        "",
+        "63",
+        "",
+        "2,243"
+      ],
+      [
+        "Comprehensive income",
+        "$35,710",
+        "",
+        "$28,719",
+        "",
+        "$133,812",
+        "",
+        "$104,075"
+      ]
+    ],
+    [
+      [
+        "",
+        "June 30, 2026",
+        "June 30, 2025"
+      ],
+      [
+        "Assets",
+        "",
+        ""
+      ],
+      [
+        "Current assets:",
+        "",
+        ""
+      ],
+      [
+        "Cash and cash equivalents",
+        "$20,935",
+        "$30,242"
+      ],
+      [
+        "Short-term investments",
+        "55,908",
+        "64,323"
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        "76,843",
+        "94,565"
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $1,040 and $944",
+        "80,876",
+        "69,905"
+      ],
+      [
+        "Inventories",
+        "1,397",
+        "938"
+      ],
+      [
+        "Other current assets",
+        "48,594",
+        "25,723"
+      ],
+      [
+        "Total current assets",
+        "207,710",
+        "191,131"
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $118,691 and $93,653",
+        "313,076",
+        "204,966"
+      ],
+      [
+        "Operating lease right-of-use assets",
+        "24,177",
+        "24,823"
+      ],
+      [
+        "Equity and other investments",
+        "36,348",
+        "15,405"
+      ],
+      [
+        "Goodwill",
+        "119,651",
+        "119,509"
+      ],
+      [
+        "Intangible assets, net",
+        "18,609",
+        "22,604"
+      ],
+      [
+        "Other long-term assets",
+        "38,805",
+        "40,565"
+      ],
+      [
+        "Total assets",
+        "$758,376",
+        "$619,003"
+      ],
+      [
+        "Liabilities and stockholders' equity",
+        "",
+        ""
+      ],
+      [
+        "Current liabilities:",
+        "",
+        ""
+      ],
+      [
+        "Accounts payable",
+        "$42,416",
+        "$27,724"
+      ],
+      [
+        "Current portion of long-term debt",
+        "9,227",
+        "2,999"
+      ],
+      [
+        "Accrued compensation",
+        "14,945",
+        "13,709"
+      ],
+      [
+        "Short-term income taxes",
+        "2,534",
+        "7,211"
+      ],
+      [
+        "Short-term unearned revenue",
+        "72,965",
+        "64,555"
+      ],
+      [
+        "Other current liabilities",
+        "26,738",
+        "25,020"
+      ],
+      [
+        "Total current liabilities",
+        "168,825",
+        "141,218"
+      ],
+      [
+        "Long-term debt",
+        "31,067",
+        "40,152"
+      ],
+      [
+        "Long-term income taxes",
+        "28,647",
+        "25,986"
+      ],
+      [
+        "Long-term unearned revenue",
+        "2,747",
+        "2,710"
+      ],
+      [
+        "Deferred income taxes",
+        "3,054",
+        "2,835"
+      ],
+      [
+        "Operating lease liabilities",
+        "16,532",
+        "17,437"
+      ],
+      [
+        "Other long-term liabilities",
+        "65,117",
+        "45,186"
+      ],
+      [
+        "Total liabilities",
+        "315,989",
+        "275,524"
+      ],
+      [
+        "Commitments and contingencies",
+        "",
+        ""
+      ],
+      [
+        "Stockholders' equity:",
+        "",
+        ""
+      ],
+      [
+        "Common stock and paid-in capital - shares authorized 24,000; outstanding 7,427 and 7,434",
+        "117,406",
+        "109,095"
+      ],
+      [
+        "Retained earnings",
+        "328,265",
+        "237,731"
+      ],
+      [
+        "Accumulated other comprehensive loss",
+        "(3,284)",
+        "(3,347)"
+      ],
+      [
+        "Total stockholders' equity",
+        "442,387",
+        "343,479"
+      ],
+      [
+        "Total liabilities and stockholders' equity",
+        "$758,376",
+        "$619,003"
+      ]
+    ],
+    [
+      [
+        "SEGMENT RESULTS"
+      ],
+      [
+        "(In millions) (Unaudited)"
+      ],
+      [
+        "",
+        "Three Months Ended June 30,",
+        "",
+        "Twelve Months Ended June 30,"
+      ],
+      [
+        "",
+        "2026",
+        "",
+        "2025",
+        "",
+        "2026",
+        "",
+        "2025"
+      ],
+      [
+        "Productivity and Business Processes",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Revenue",
+        "$37,847",
+        "",
+        "$33,112",
+        "",
+        "$139,996",
+        "",
+        "$120,810"
+      ],
+      [
+        "Cost of revenue",
+        "6,989",
+        "",
+        "6,042",
+        "",
+        "25,017",
+        "",
+        "22,422"
+      ],
+      [
+        "Operating expenses",
+        "8,958",
+        "",
+        "8,077",
+        "",
+        "31,100",
+        "",
+        "28,615"
+      ],
+      [
+        "Operating income",
+        "$21,900",
+        "",
+        "$18,993",
+        "",
+        "$83,879",
+        "",
+        "$69,773"
+      ],
+      [
+        "Intelligent Cloud",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Revenue",
+        "$39,306",
+        "",
+        "$29,878",
+        "",
+        "$137,791",
+        "",
+        "$106,265"
+      ],
+      [
+        "Cost of revenue",
+        "16,876",
+        "",
+        "11,845",
+        "",
+        "57,876",
+        "",
+        "40,171"
+      ],
+      [
+        "Operating expenses",
+        "6,475",
+        "",
+        "5,893",
+        "",
+        "22,943",
+        "",
+        "21,505"
+      ],
+      [
+        "Operating income",
+        "$15,955",
+        "",
+        "$12,140",
+        "",
+        "$56,972",
+        "",
+        "$44,589"
+      ],
+      [
+        "More Personal Computing",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Revenue",
+        "$12,854",
+        "",
+        "$13,451",
+        "",
+        "$54,052",
+        "",
+        "$54,649"
+      ],
+      [
+        "Cost of revenue",
+        "5,660",
+        "",
+        "6,127",
+        "",
+        "23,481",
+        "",
+        "25,238"
+      ],
+      [
+        "Operating expenses",
+        "4,446",
+        "",
+        "4,134",
+        "",
+        "16,185",
+        "",
+        "15,245"
+      ],
+      [
+        "Operating income",
+        "$2,748",
+        "",
+        "$3,190",
+        "",
+        "$14,386",
+        "",
+        "$14,166"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Revenue",
+        "$90,007",
+        "",
+        "$76,441",
+        "",
+        "$331,839",
+        "",
+        "$281,724"
+      ],
+      [
+        "Cost of revenue",
+        "29,525",
+        "",
+        "24,014",
+        "",
+        "106,374",
+        "",
+        "87,831"
+      ],
+      [
+        "Operating expenses",
+        "19,879",
+        "",
+        "18,104",
+        "",
+        "70,228",
+        "",
+        "65,365"
+      ],
+      [
+        "Operating income",
+        "$40,603",
+        "",
+        "$34,323",
+        "",
+        "$155,237",
+        "",
+        "$128,528"
+      ]
+    ]
+  ]
+}

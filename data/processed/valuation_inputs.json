@@ -1,0 +1,43 @@
+{
+  "as_of": "2026-10-26",
+  "risk_free_rate": {
+    "value": 0.05,
+    "observation_date": "10/23/2026",
+    "source": "treasury_2026",
+    "method": "10-year nominal par Treasury yield; choose maturity consistently with USD DCF"
+  },
+  "msft_quote": {
+    "value": 530.17,
+    "currency": "USD",
+    "timestamp_utc": "2026-10-26T17:43:48+00:00",
+    "source": "msft_prices",
+    "status": "intraday or delayed snapshot; not asserted to be closing price"
+  },
+  "us_equity_risk_premium": {
+    "value": 0.0446,
+    "source": "equity_risk_premium",
+    "source_row": [
+      "United States",
+      "Aa1",
+      "0.23%",
+      "0.23%",
+      "4.46%",
+      "25.00%",
+      "0.30%",
+      "4.69%"
+    ],
+    "status": "published Damodaran estimate, not a company fact; verify source vintage before valuation"
+  },
+  "cost_of_debt": {
+    "value": null,
+    "status": "select marginal borrowing rate using Treasury curve and credit spread; historical interest/debt is only a cross-check"
+  },
+  "terminal_growth": {
+    "value": null,
+    "status": "analyst assumption; must be less than WACC"
+  },
+  "wacc": {
+    "value": null,
+    "status": "calculate after choosing capital structure, beta, debt spread, ERP and normalized tax rate"
+  }
+}

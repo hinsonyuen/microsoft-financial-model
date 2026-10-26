@@ -1,0 +1,48 @@
+﻿year,check,difference_usd_millions,passed
+2022,balance_sheet_balances,0.0,True
+2022,pretax_less_tax_equals_net_income,0.0,True
+2022,cash_rollforward,0.0,True
+2023,balance_sheet_balances,0.0,True
+2023,pretax_less_tax_equals_net_income,0.0,True
+2023,cash_rollforward,0.0,True
+2024,balance_sheet_balances,0.0,True
+2024,pretax_less_tax_equals_net_income,0.0,True
+2024,cash_rollforward,0.0,True
+2025,balance_sheet_balances,0.0,True
+2025,pretax_less_tax_equals_net_income,0.0,True
+2025,cash_rollforward,0.0,True
+2026,balance_sheet_balances,0.0,True
+2026,pretax_less_tax_equals_net_income,0.0,True
+2026,cash_rollforward,0.0,True
+2025,recast_segment_sum_Revenue,0.0,True
+2025,recast_segment_sum_Cost of revenue,0.0,True
+2025,recast_segment_sum_Operating expenses,0.0,True
+2025,recast_segment_sum_Operating income,0.0,True
+2025,quarter_sum_Agents and Infra_Revenue,0.0,True
+2025,quarter_sum_Agents and Infra_Cost of revenue,0.0,True
+2025,quarter_sum_Agents and Infra_Operating expenses,0.0,True
+2025,quarter_sum_Agents and Infra_Operating income,0.0,True
+2025,quarter_sum_Devices and Consumer_Revenue,0.0,True
+2025,quarter_sum_Devices and Consumer_Cost of revenue,0.0,True
+2025,quarter_sum_Devices and Consumer_Operating expenses,0.0,True
+2025,quarter_sum_Devices and Consumer_Operating income,0.0,True
+2025,quarter_sum_Total_Revenue,0.0,True
+2025,quarter_sum_Total_Cost of revenue,0.0,True
+2025,quarter_sum_Total_Operating expenses,0.0,True
+2025,quarter_sum_Total_Operating income,0.0,True
+2026,recast_segment_sum_Revenue,0.0,True
+2026,recast_segment_sum_Cost of revenue,0.0,True
+2026,recast_segment_sum_Operating expenses,0.0,True
+2026,recast_segment_sum_Operating income,0.0,True
+2026,quarter_sum_Agents and Infra_Revenue,0.0,True
+2026,quarter_sum_Agents and Infra_Cost of revenue,0.0,True
+2026,quarter_sum_Agents and Infra_Operating expenses,0.0,True
+2026,quarter_sum_Agents and Infra_Operating income,0.0,True
+2026,quarter_sum_Devices and Consumer_Revenue,0.0,True
+2026,quarter_sum_Devices and Consumer_Cost of revenue,0.0,True
+2026,quarter_sum_Devices and Consumer_Operating expenses,0.0,True
+2026,quarter_sum_Devices and Consumer_Operating income,0.0,True
+2026,quarter_sum_Total_Revenue,0.0,True
+2026,quarter_sum_Total_Cost of revenue,0.0,True
+2026,quarter_sum_Total_Operating expenses,0.0,True
+2026,quarter_sum_Total_Operating income,0.0,True

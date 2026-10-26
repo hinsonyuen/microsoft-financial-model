@@ -1,0 +1,5983 @@
+{
+  "source": "https://www.microsoft.com/investor/reports/ar22/index.html",
+  "tables": [
+    [
+      [
+        "(In millions)",
+        "Shares",
+        "",
+        "Amount",
+        "",
+        "Shares",
+        "",
+        "Amount",
+        "",
+        "Shares",
+        "",
+        "Amount"
+      ],
+      [
+        "Year Ended June 30,",
+        "",
+        "",
+        "2022",
+        "",
+        "",
+        "",
+        "2021",
+        "",
+        "",
+        "",
+        "2020"
+      ],
+      [
+        "First Quarter",
+        "21",
+        "",
+        "$ 6,200",
+        "",
+        "25",
+        "",
+        "$ 5,270",
+        "",
+        "29",
+        "",
+        "$ 4,000"
+      ],
+      [
+        "Second Quarter",
+        "20",
+        "",
+        "6,233",
+        "",
+        "27",
+        "",
+        "5,750",
+        "",
+        "32",
+        "",
+        "4,600"
+      ],
+      [
+        "Third Quarter",
+        "26",
+        "",
+        "7,800",
+        "",
+        "25",
+        "",
+        "5,750",
+        "",
+        "37",
+        "",
+        "6,000"
+      ],
+      [
+        "Fourth Quarter",
+        "28",
+        "",
+        "7,800",
+        "",
+        "24",
+        "",
+        "6,200",
+        "",
+        "28",
+        "",
+        "5,088"
+      ],
+      [
+        "Total",
+        "95",
+        "",
+        "$ 28,033",
+        "",
+        "101",
+        "",
+        "$ 22,970",
+        "",
+        "126",
+        "",
+        "$ 19,688"
+      ]
+    ],
+    [
+      [
+        "Declaration Date",
+        "Record Date",
+        "Payment Date",
+        "",
+        "Dividend Per Share",
+        "",
+        "Amount"
+      ],
+      [
+        "Fiscal Year 2022",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(In millions)"
+      ],
+      [
+        "September 14, 2021",
+        "November 18, 2021",
+        "December 9, 2021",
+        "",
+        "$ 0.62",
+        "",
+        "$ 4,652"
+      ],
+      [
+        "December 7, 2021",
+        "February 17, 2022",
+        "March 10, 2022",
+        "",
+        "0.62",
+        "",
+        "4,645"
+      ],
+      [
+        "March 14, 2022",
+        "May 19, 2022",
+        "June 9, 2022",
+        "",
+        "0.62",
+        "",
+        "4,632"
+      ],
+      [
+        "June 14, 2022",
+        "August 18, 2022",
+        "September 8, 2022",
+        "",
+        "0.62",
+        "",
+        "4,627"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "$ 2.48",
+        "",
+        "$ 18,556"
+      ],
+      [
+        "Fiscal Year 2021",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "September 15, 2020",
+        "November 19, 2020",
+        "December 10, 2020",
+        "",
+        "$ 0.56",
+        "",
+        "$ 4,230"
+      ],
+      [
+        "December 2, 2020",
+        "February 18, 2021",
+        "March 11, 2021",
+        "",
+        "0.56",
+        "",
+        "4,221"
+      ],
+      [
+        "March 16, 2021",
+        "May 20, 2021",
+        "June 10, 2021",
+        "",
+        "0.56",
+        "",
+        "4,214"
+      ],
+      [
+        "June 16, 2021",
+        "August 19, 2021",
+        "September 9, 2021",
+        "",
+        "0.56",
+        "",
+        "4,206"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "$ 2.24",
+        "",
+        "$ 16,871"
+      ]
+    ],
+    [
+      [
+        "",
+        "6/17",
+        "",
+        "6/18",
+        "",
+        "6/19",
+        "",
+        "6/20",
+        "",
+        "6/21",
+        "",
+        "6/22"
+      ],
+      [
+        "Microsoft Corporation",
+        "100.00",
+        "",
+        "145.84",
+        "",
+        "201.36",
+        "",
+        "309.69",
+        "",
+        "416.25",
+        "",
+        "397.90"
+      ],
+      [
+        "S&P 500",
+        "100.00",
+        "",
+        "114.37",
+        "",
+        "126.29",
+        "",
+        "135.77",
+        "",
+        "191.15",
+        "",
+        "170.86"
+      ],
+      [
+        "NASDAQ Computer",
+        "100.00",
+        "",
+        "131.27",
+        "",
+        "139.29",
+        "",
+        "196.40",
+        "",
+        "288.13",
+        "",
+        "228.71"
+      ]
+    ],
+    [
+      [
+        "Commercial remaining performance obligation",
+        "Commercial portion of revenue allocated to remaining performance obligations, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods"
+      ],
+      [
+        "Microsoft Cloud revenue",
+        "Revenue from Azure and other cloud services, Office 365 Commercial, the commercial portion of LinkedIn, Dynamics 365, and other commercial cloud properties"
+      ],
+      [
+        "Microsoft Cloud gross margin percentage",
+        "Gross margin percentage for our Microsoft Cloud business"
+      ]
+    ],
+    [
+      [
+        "Office Commercial products and cloud services revenue growth",
+        "Revenue from Office Commercial products and cloud services (Office 365 subscriptions, the Office 365 portion of Microsoft 365 Commercial subscriptions, and Office licensed on-premises), comprising Office, Exchange, SharePoint, Microsoft Teams, Office 365 Security and Compliance, and Microsoft Viva"
+      ],
+      [
+        "Office Consumer products and cloud services revenue growth",
+        "Revenue from Office Consumer products and cloud services, including Microsoft 365 Consumer subscriptions, Office licensed on-premises, and other Office services"
+      ],
+      [
+        "Office 365 Commercial seat growth",
+        "The number of Office 365 Commercial seats at end of period where seats are paid users covered by an Office 365 Commercial subscription"
+      ],
+      [
+        "Microsoft 365 Consumer subscribers",
+        "The number of Microsoft 365 Consumer subscribers at end of period"
+      ],
+      [
+        "Dynamics products and cloud services revenue growth",
+        "Revenue from Dynamics products and cloud services, including Dynamics 365, comprising a set of intelligent, cloud-based applications across ERP, CRM, Customer Insights, Power Apps, and Power Automate; and on-premises ERP and CRM applications"
+      ],
+      [
+        "LinkedIn revenue growth",
+        "Revenue from LinkedIn, including Talent Solutions, Marketing Solutions, Premium Subscriptions, and Sales Solutions"
+      ],
+      [
+        "Server products and cloud services revenue growth",
+        "Revenue from Server products and cloud services, including Azure and other cloud services; SQL Server, Windows Server, Visual Studio, System Center, and related Client Access Licenses (\u201cCALs\u201d); and Nuance and GitHub"
+      ]
+    ],
+    [
+      [
+        "Windows OEM revenue growth",
+        "Revenue from sales of Windows Pro and non-Pro licenses sold through the OEM channel"
+      ],
+      [
+        "Windows Commercial products and cloud services revenue growth",
+        "Revenue from Windows Commercial products and cloud services, comprising volume licensing of the Windows operating system, Windows cloud services, and other Windows commercial offerings"
+      ],
+      [
+        "Surface revenue growth",
+        "Revenue from Surface devices and accessories"
+      ],
+      [
+        "Xbox content and services revenue growth",
+        "Revenue from Xbox content and services, comprising first- and third-party content (including games and in-game content), Xbox Game Pass and other subscriptions, Xbox Cloud Gaming, third- party disc royalties, advertising, and other cloud services"
+      ],
+      [
+        "Search and news advertising revenue, excluding TAC, growth",
+        "Revenue from search and news advertising excluding traffic acquisition costs (\u201cTAC\u201d) paid to Bing Ads network publishers and news partners"
+      ]
+    ],
+    [
+      [
+        "(In millions, except percentages and per share amounts)",
+        "2022",
+        "2021",
+        "Percentage Change"
+      ],
+      [
+        "Revenue",
+        "$ 198,270",
+        "$ 168,088",
+        "18%"
+      ],
+      [
+        "Gross margin",
+        "135,620",
+        "115,856",
+        "17%"
+      ],
+      [
+        "Operating income",
+        "83,383",
+        "69,916",
+        "19%"
+      ],
+      [
+        "Net income",
+        "72,738",
+        "61,271",
+        "19%"
+      ],
+      [
+        "Diluted earnings per share",
+        "9.65",
+        "8.05",
+        "20%"
+      ],
+      [
+        "Adjusted net income (non-GAAP)",
+        "69,447",
+        "60,651",
+        "15%"
+      ],
+      [
+        "Adjusted diluted earnings per share (non-GAAP)",
+        "9.21",
+        "7.97",
+        "16%"
+      ]
+    ],
+    [
+      [
+        "(In millions, except percentages)",
+        "2022",
+        "",
+        "2021",
+        "Percentage Change"
+      ],
+      [
+        "Revenue",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Productivity and Business Processes",
+        "$ 63,364",
+        "",
+        "$ 53,915",
+        "18%"
+      ],
+      [
+        "Intelligent Cloud",
+        "75,251",
+        "",
+        "60,080",
+        "25%"
+      ],
+      [
+        "More Personal Computing",
+        "59,655",
+        "",
+        "54,093",
+        "10%"
+      ],
+      [
+        "Total",
+        "$ 198,270",
+        "",
+        "$ 168,088",
+        "18%"
+      ],
+      [
+        "Operating Income",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Productivity and Business Processes",
+        "$ 29,687",
+        "",
+        "$ 24,351",
+        "22%"
+      ],
+      [
+        "Intelligent Cloud",
+        "32,721",
+        "",
+        "26,126",
+        "25%"
+      ],
+      [
+        "More Personal Computing",
+        "20,975",
+        "",
+        "19,439",
+        "8%"
+      ],
+      [
+        "Total",
+        "$ 83,383",
+        "",
+        "$ 69,916",
+        "19%"
+      ]
+    ],
+    [
+      [
+        "(In millions, except percentages)",
+        "2022",
+        "2021",
+        "Percentage Change"
+      ],
+      [
+        "Research and development",
+        "$ 24,512",
+        "$ 20,716",
+        "18%"
+      ],
+      [
+        "As a percent of revenue",
+        "12%",
+        "12%",
+        "0ppt"
+      ]
+    ],
+    [
+      [
+        "(In millions, except percentages)",
+        "2022",
+        "2021",
+        "Percentage Change"
+      ],
+      [
+        "Sales and marketing",
+        "$ 21,825",
+        "$ 20,117",
+        "8%"
+      ],
+      [
+        "As a percent of revenue",
+        "11%",
+        "12%",
+        "(1)ppt"
+      ]
+    ],
+    [
+      [
+        "(In millions, except percentages)",
+        "2022",
+        "2021",
+        "Percentage Change"
+      ],
+      [
+        "General and administrative",
+        "$ 5,900",
+        "$ 5,107",
+        "16%"
+      ],
+      [
+        "As a percent of revenue",
+        "3%",
+        "3%",
+        "0ppt"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021"
+      ],
+      [
+        "Interest and dividends income",
+        "$ 2,094",
+        "",
+        "$ 2,131"
+      ],
+      [
+        "Interest expense",
+        "(2,063)",
+        "",
+        "(2,346)"
+      ],
+      [
+        "Net recognized gains on investments",
+        "461",
+        "",
+        "1,232"
+      ],
+      [
+        "Net gains (losses) on derivatives",
+        "(52)",
+        "",
+        "17"
+      ],
+      [
+        "Net gains (losses) on foreign currency remeasurements",
+        "(75)",
+        "",
+        "54"
+      ],
+      [
+        "Other, net",
+        "(32)",
+        "",
+        "98"
+      ],
+      [
+        "Total",
+        "$ 333",
+        "",
+        "$ 1,186"
+      ]
+    ],
+    [
+      [
+        "(In millions, except percentages and per share amounts)",
+        "2022",
+        "",
+        "2021",
+        "Percentage Change"
+      ],
+      [
+        "Net income",
+        "$ 72,738",
+        "",
+        "$ 61,271",
+        "19%"
+      ],
+      [
+        "Net income tax benefit related to transfer of intangible properties",
+        "(3,291)",
+        "",
+        "0",
+        "*"
+      ],
+      [
+        "Net income tax benefit related to India Supreme Court decision on withholding taxes",
+        "0",
+        "",
+        "(620)",
+        "*"
+      ],
+      [
+        "Adjusted net income (non-GAAP)",
+        "$ 69,447",
+        "",
+        "$ 60,651",
+        "15%"
+      ],
+      [
+        "Diluted earnings per share",
+        "$ 9.65",
+        "",
+        "$ 8.05",
+        "20%"
+      ],
+      [
+        "Net income tax benefit related to transfer of intangible properties",
+        "(0.44)",
+        "",
+        "0",
+        "*"
+      ],
+      [
+        "Net income tax benefit related to India Supreme Court decision on withholding taxes",
+        "0",
+        "",
+        "(0.08)",
+        "*"
+      ],
+      [
+        "Adjusted diluted earnings per share (non-GAAP)",
+        "$ 9.21",
+        "",
+        "$ 7.97",
+        "16%"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        ""
+      ],
+      [
+        "Three Months Ending",
+        ""
+      ],
+      [
+        "September 30, 2022",
+        "$ 17,691"
+      ],
+      [
+        "December 31, 2022",
+        "13,923"
+      ],
+      [
+        "March 31, 2023",
+        "9,491"
+      ],
+      [
+        "June 30, 2023",
+        "4,433"
+      ],
+      [
+        "Thereafter",
+        "2,870"
+      ],
+      [
+        "Total",
+        "$48,408"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "2022",
+        "",
+        "Thereafter",
+        "",
+        "Total"
+      ],
+      [
+        "Long-term debt: (a)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Principal payments",
+        "$ 2,750",
+        "",
+        "$ 52,761",
+        "",
+        "$ 55,511"
+      ],
+      [
+        "Interest payments",
+        "1,468",
+        "",
+        "21,139",
+        "",
+        "22,607"
+      ],
+      [
+        "Construction commitments (b)",
+        "7,942",
+        "",
+        "576",
+        "",
+        "8,518"
+      ],
+      [
+        "Operating and finance leases, including imputed interest (c)",
+        "4,609",
+        "",
+        "44,045",
+        "",
+        "48,654"
+      ],
+      [
+        "Purchase commitments (d)",
+        "42,669",
+        "",
+        "2,985",
+        "",
+        "45,654"
+      ],
+      [
+        "Total",
+        "$ 59,438",
+        "",
+        "$ 121,506",
+        "",
+        "$ 180,944"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Risk Categories",
+        "",
+        "Hypothetical Change",
+        "June 30, 2022",
+        "",
+        "",
+        "Impact"
+      ],
+      [
+        "Foreign currency \u2013 Revenue",
+        "",
+        "10% decrease in foreign exchange rates",
+        "$ (6,822)",
+        "",
+        "",
+        "Earnings"
+      ],
+      [
+        "Foreign currency \u2013 Investments",
+        "",
+        "10% decrease in foreign exchange rates",
+        "(94)",
+        "",
+        "",
+        "Fair Value"
+      ],
+      [
+        "Interest rate",
+        "",
+        "100 basis point increase in U.S. treasury interest rates",
+        "(2,536)",
+        "",
+        "",
+        "Fair Value"
+      ],
+      [
+        "Credit",
+        "",
+        "100 basis point increase in credit spreads",
+        "(350)",
+        "",
+        "",
+        "Fair Value"
+      ],
+      [
+        "Equity",
+        "",
+        "10% decrease in equity market prices",
+        "(637)",
+        "",
+        "",
+        "Earnings"
+      ]
+    ],
+    [
+      [
+        "(In millions, except per share amounts)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Revenue:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product",
+        "$ 72,732",
+        "",
+        "$ 71,074",
+        "",
+        "$ 68,041"
+      ],
+      [
+        "Service and other",
+        "125,538",
+        "",
+        "97,014",
+        "",
+        "74,974"
+      ],
+      [
+        "Total revenue",
+        "198,270",
+        "",
+        "168,088",
+        "",
+        "143,015"
+      ],
+      [
+        "Cost of revenue:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Product",
+        "19,064",
+        "",
+        "18,219",
+        "",
+        "16,017"
+      ],
+      [
+        "Service and other",
+        "43,586",
+        "",
+        "34,013",
+        "",
+        "30,061"
+      ],
+      [
+        "Total cost of revenue",
+        "62,650",
+        "",
+        "52,232",
+        "",
+        "46,078"
+      ],
+      [
+        "Gross margin",
+        "135,620",
+        "",
+        "115,856",
+        "",
+        "96,937"
+      ],
+      [
+        "Research and development",
+        "24,512",
+        "",
+        "20,716",
+        "",
+        "19,269"
+      ],
+      [
+        "Sales and marketing",
+        "21,825",
+        "",
+        "20,117",
+        "",
+        "19,598"
+      ],
+      [
+        "General and administrative",
+        "5,900",
+        "",
+        "5,107",
+        "",
+        "5,111"
+      ],
+      [
+        "Operating income",
+        "83,383",
+        "",
+        "69,916",
+        "",
+        "52,959"
+      ],
+      [
+        "Other income, net",
+        "333",
+        "",
+        "1,186",
+        "",
+        "77"
+      ],
+      [
+        "Income before income taxes",
+        "83,716",
+        "",
+        "71,102",
+        "",
+        "53,036"
+      ],
+      [
+        "Provision for income taxes",
+        "10,978",
+        "",
+        "9,831",
+        "",
+        "8,755"
+      ],
+      [
+        "Net income",
+        "$ 72,738",
+        "",
+        "$ 61,271",
+        "",
+        "$ 44,281"
+      ],
+      [
+        "Earnings per share:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic",
+        "$ 9.70",
+        "",
+        "$ 8.12",
+        "",
+        "$ 5.82"
+      ],
+      [
+        "Diluted",
+        "$ 9.65",
+        "",
+        "$ 8.05",
+        "",
+        "$ 5.76"
+      ],
+      [
+        "Weighted average shares outstanding:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic",
+        "7,496",
+        "",
+        "7,547",
+        "",
+        "7,610"
+      ],
+      [
+        "Diluted",
+        "7,540",
+        "",
+        "7,608",
+        "",
+        "7,683"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Net income",
+        "$ 72,738",
+        "",
+        "$ 61,271",
+        "",
+        "$ 44,281"
+      ],
+      [
+        "Other comprehensive income (loss), net of tax:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net change related to derivatives",
+        "6",
+        "",
+        "19",
+        "",
+        "(38)"
+      ],
+      [
+        "Net change related to investments",
+        "(5,360)",
+        "",
+        "(2,266)",
+        "",
+        "3,990"
+      ],
+      [
+        "Translation adjustments and other",
+        "(1,146)",
+        "",
+        "873",
+        "",
+        "(426)"
+      ],
+      [
+        "Other comprehensive income (loss)",
+        "(6,500)",
+        "",
+        "(1,374)",
+        "",
+        "3,526"
+      ],
+      [
+        "Comprehensive income",
+        "$ 66,238",
+        "",
+        "$ 59,897",
+        "",
+        "$ 47,807"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "June 30,",
+        "2022",
+        "",
+        "2021"
+      ],
+      [
+        "Assets",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Current assets:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash and cash equivalents",
+        "$ 13,931",
+        "",
+        "$ 14,224"
+      ],
+      [
+        "Short-term investments",
+        "90,826",
+        "",
+        "116,110"
+      ],
+      [
+        "Total cash, cash equivalents, and short-term investments",
+        "104,757",
+        "",
+        "130,334"
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts of $633 and $751",
+        "44,261",
+        "",
+        "38,043"
+      ],
+      [
+        "Inventories",
+        "3,742",
+        "",
+        "2,636"
+      ],
+      [
+        "Other current assets",
+        "16,924",
+        "",
+        "13,393"
+      ],
+      [
+        "Total current assets",
+        "169,684",
+        "",
+        "184,406"
+      ],
+      [
+        "Property and equipment, net of accumulated depreciation of $59,660 and $51,351",
+        "74,398",
+        "",
+        "59,715"
+      ],
+      [
+        "Operating lease right-of-use assets",
+        "13,148",
+        "",
+        "11,088"
+      ],
+      [
+        "Equity investments",
+        "6,891",
+        "",
+        "5,984"
+      ],
+      [
+        "Goodwill",
+        "67,524",
+        "",
+        "49,711"
+      ],
+      [
+        "Intangible assets, net",
+        "11,298",
+        "",
+        "7,800"
+      ],
+      [
+        "Other long-term assets",
+        "21,897",
+        "",
+        "15,075"
+      ],
+      [
+        "Total assets",
+        "$ 364,840",
+        "",
+        "$ 333,779"
+      ],
+      [
+        "Liabilities and stockholders\u2019 equity",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Current liabilities:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Accounts payable",
+        "$ 19,000",
+        "",
+        "$ 15,163"
+      ],
+      [
+        "Current portion of long-term debt",
+        "2,749",
+        "",
+        "8,072"
+      ],
+      [
+        "Accrued compensation",
+        "10,661",
+        "",
+        "10,057"
+      ],
+      [
+        "Short-term income taxes",
+        "4,067",
+        "",
+        "2,174"
+      ],
+      [
+        "Short-term unearned revenue",
+        "45,538",
+        "",
+        "41,525"
+      ],
+      [
+        "Other current liabilities",
+        "13,067",
+        "",
+        "11,666"
+      ],
+      [
+        "Total current liabilities",
+        "95,082",
+        "",
+        "88,657"
+      ],
+      [
+        "Long-term debt",
+        "47,032",
+        "",
+        "50,074"
+      ],
+      [
+        "Long-term income taxes",
+        "26,069",
+        "",
+        "27,190"
+      ],
+      [
+        "Long-term unearned revenue",
+        "2,870",
+        "",
+        "2,616"
+      ],
+      [
+        "Deferred income taxes",
+        "230",
+        "",
+        "198"
+      ],
+      [
+        "Operating lease liabilities",
+        "11,489",
+        "",
+        "9,629"
+      ],
+      [
+        "Other long-term liabilities",
+        "15,526",
+        "",
+        "13,427"
+      ],
+      [
+        "Total liabilities",
+        "198,298",
+        "",
+        "191,791"
+      ],
+      [
+        "Commitments and contingencies",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Stockholders\u2019 equity:",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Common stock and paid-in capital \u2013 shares authorized 24,000; outstanding 7,464 and 7,519",
+        "86,939",
+        "",
+        "83,111"
+      ],
+      [
+        "Retained earnings",
+        "84,281",
+        "",
+        "57,055"
+      ],
+      [
+        "Accumulated other comprehensive income (loss)",
+        "(4,678)",
+        "",
+        "1,822"
+      ],
+      [
+        "Total stockholders\u2019 equity",
+        "166,542",
+        "",
+        "141,988"
+      ],
+      [
+        "Total liabilities and stockholders\u2019 equity",
+        "$ 364,840",
+        "",
+        "$ 333,779"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Operations",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net income",
+        "$ 72,738",
+        "",
+        "$ 61,271",
+        "",
+        "$ 44,281"
+      ],
+      [
+        "Adjustments to reconcile net income to net cash from operations:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Depreciation, amortization, and other",
+        "14,460",
+        "",
+        "11,686",
+        "",
+        "12,796"
+      ],
+      [
+        "Stock-based compensation expense",
+        "7,502",
+        "",
+        "6,118",
+        "",
+        "5,289"
+      ],
+      [
+        "Net recognized gains on investments and derivatives",
+        "(409)",
+        "",
+        "(1,249)",
+        "",
+        "(219)"
+      ],
+      [
+        "Deferred income taxes",
+        "(5,702)",
+        "",
+        "(150)",
+        "",
+        "11"
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Accounts receivable",
+        "(6,834)",
+        "",
+        "(6,481)",
+        "",
+        "(2,577)"
+      ],
+      [
+        "Inventories",
+        "(1,123)",
+        "",
+        "(737)",
+        "",
+        "168"
+      ],
+      [
+        "Other current assets",
+        "(709)",
+        "",
+        "(932)",
+        "",
+        "(2,330)"
+      ],
+      [
+        "Other long-term assets",
+        "(2,805)",
+        "",
+        "(3,459)",
+        "",
+        "(1,037)"
+      ],
+      [
+        "Accounts payable",
+        "2,943",
+        "",
+        "2,798",
+        "",
+        "3,018"
+      ],
+      [
+        "Unearned revenue",
+        "5,109",
+        "",
+        "4,633",
+        "",
+        "2,212"
+      ],
+      [
+        "Income taxes",
+        "696",
+        "",
+        "(2,309)",
+        "",
+        "(3,631)"
+      ],
+      [
+        "Other current liabilities",
+        "2,344",
+        "",
+        "4,149",
+        "",
+        "1,346"
+      ],
+      [
+        "Other long-term liabilities",
+        "825",
+        "",
+        "1,402",
+        "",
+        "1,348"
+      ],
+      [
+        "Net cash from operations",
+        "89,035",
+        "",
+        "76,740",
+        "",
+        "60,675"
+      ],
+      [
+        "Financing",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash premium on debt exchange",
+        "0",
+        "",
+        "(1,754)",
+        "",
+        "(3,417)"
+      ],
+      [
+        "Repayments of debt",
+        "(9,023)",
+        "",
+        "(3,750)",
+        "",
+        "(5,518)"
+      ],
+      [
+        "Common stock issued",
+        "1,841",
+        "",
+        "1,693",
+        "",
+        "1,343"
+      ],
+      [
+        "Common stock repurchased",
+        "(32,696)",
+        "",
+        "(27,385)",
+        "",
+        "(22,968)"
+      ],
+      [
+        "Common stock cash dividends paid",
+        "(18,135)",
+        "",
+        "(16,521)",
+        "",
+        "(15,137)"
+      ],
+      [
+        "Other, net",
+        "(863)",
+        "",
+        "(769)",
+        "",
+        "(334)"
+      ],
+      [
+        "Net cash used in financing",
+        "(58,876)",
+        "",
+        "(48,486)",
+        "",
+        "(46,031)"
+      ],
+      [
+        "Investing",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Additions to property and equipment",
+        "(23,886)",
+        "",
+        "(20,622)",
+        "",
+        "(15,441)"
+      ],
+      [
+        "Acquisition of companies, net of cash acquired, and purchases of intangible and other assets",
+        "(22,038)",
+        "",
+        "(8,909)",
+        "",
+        "(2,521)"
+      ],
+      [
+        "Purchases of investments",
+        "(26,456)",
+        "",
+        "(62,924)",
+        "",
+        "(77,190)"
+      ],
+      [
+        "Maturities of investments",
+        "16,451",
+        "",
+        "51,792",
+        "",
+        "66,449"
+      ],
+      [
+        "Sales of investments",
+        "28,443",
+        "",
+        "14,008",
+        "",
+        "17,721"
+      ],
+      [
+        "Other, net",
+        "(2,825)",
+        "",
+        "(922)",
+        "",
+        "(1,241)"
+      ],
+      [
+        "Net cash used in investing",
+        "(30,311)",
+        "",
+        "(27,577)",
+        "",
+        "(12,223)"
+      ],
+      [
+        "Effect of foreign exchange rates on cash and cash equivalents",
+        "(141)",
+        "",
+        "(29)",
+        "",
+        "(201)"
+      ],
+      [
+        "Net change in cash and cash equivalents",
+        "(293)",
+        "",
+        "648",
+        "",
+        "2,220"
+      ],
+      [
+        "Cash and cash equivalents, beginning of period",
+        "14,224",
+        "",
+        "13,576",
+        "",
+        "11,356"
+      ],
+      [
+        "Cash and cash equivalents, end of period",
+        "$ 13,931",
+        "",
+        "$ 14,224",
+        "",
+        "$ 13,576"
+      ]
+    ],
+    [
+      [
+        "(In millions, except per share amounts)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Common stock and paid-in capital",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Balance, beginning of period",
+        "$ 83,111",
+        "",
+        "$ 80,552",
+        "",
+        "$ 78,520"
+      ],
+      [
+        "Common stock issued",
+        "1,841",
+        "",
+        "1,963",
+        "",
+        "1,343"
+      ],
+      [
+        "Common stock repurchased",
+        "(5,688)",
+        "",
+        "(5,539)",
+        "",
+        "(4,599)"
+      ],
+      [
+        "Stock-based compensation expense",
+        "7,502",
+        "",
+        "6,118",
+        "",
+        "5,289"
+      ],
+      [
+        "Other, net",
+        "173",
+        "",
+        "17",
+        "",
+        "(1)"
+      ],
+      [
+        "Balance, end of period",
+        "86,939",
+        "",
+        "83,111",
+        "",
+        "80,552"
+      ],
+      [
+        "Retained earnings",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Balance, beginning of period",
+        "57,055",
+        "",
+        "34,566",
+        "",
+        "24,150"
+      ],
+      [
+        "Net income",
+        "72,738",
+        "",
+        "61,271",
+        "",
+        "44,281"
+      ],
+      [
+        "Common stock cash dividends",
+        "(18,552)",
+        "",
+        "(16,871)",
+        "",
+        "(15,483)"
+      ],
+      [
+        "Common stock repurchased",
+        "(26,960)",
+        "",
+        "(21,879)",
+        "",
+        "(18,382)"
+      ],
+      [
+        "Cumulative effect of accounting changes",
+        "0",
+        "",
+        "(32)",
+        "",
+        "0"
+      ],
+      [
+        "Balance, end of period",
+        "84,281",
+        "",
+        "57,055",
+        "",
+        "34,566"
+      ],
+      [
+        "Accumulated other comprehensive income (loss)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Balance, beginning of period",
+        "1,822",
+        "",
+        "3,186",
+        "",
+        "(340)"
+      ],
+      [
+        "Other comprehensive income (loss)",
+        "(6,500)",
+        "",
+        "(1,374)",
+        "",
+        "3,526"
+      ],
+      [
+        "Cumulative effect of accounting changes",
+        "0",
+        "",
+        "10",
+        "",
+        "0"
+      ],
+      [
+        "Balance, end of period",
+        "(4,678)",
+        "",
+        "1,822",
+        "",
+        "3,186"
+      ],
+      [
+        "Total stockholders\u2019 equity",
+        "$ 166,542",
+        "",
+        "$ 141,988",
+        "",
+        "$ 118,304"
+      ],
+      [
+        "Cash dividends declared per common share",
+        "$ 2.48",
+        "",
+        "$ 2.24",
+        "",
+        "$ 2.04"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Balance, beginning of period",
+        "$ 798",
+        "",
+        "$ 816",
+        "",
+        "$ 434"
+      ],
+      [
+        "Charged to costs and other",
+        "157",
+        "",
+        "234",
+        "",
+        "560"
+      ],
+      [
+        "Write-offs",
+        "(245)",
+        "",
+        "(252)",
+        "",
+        "(178)"
+      ],
+      [
+        "Balance, end of period",
+        "$ 710",
+        "",
+        "$ 798",
+        "",
+        "$ 816"
+      ],
+      [
+        "Allowance for doubtful accounts included in our consolidated balance sheets:"
+      ],
+      [
+        "(In millions)"
+      ],
+      [
+        "June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Accounts receivable, net of allowance for doubtful accounts",
+        "$ 633",
+        "",
+        "$ 751",
+        "",
+        "$ 788"
+      ],
+      [
+        "Other long-term assets",
+        "77",
+        "",
+        "47",
+        "",
+        "28"
+      ],
+      [
+        "Total",
+        "$ 710",
+        "",
+        "$ 798",
+        "",
+        "$ 816"
+      ]
+    ],
+    [
+      [
+        "(In millions, except earnings per share)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Net income available for common shareholders (A)",
+        "$ 72,738",
+        "",
+        "$ 61,271",
+        "",
+        "$ 44,281"
+      ],
+      [
+        "Weighted average outstanding shares of common stock (B)",
+        "7,496",
+        "",
+        "7,547",
+        "",
+        "7,610"
+      ],
+      [
+        "Dilutive effect of stock-based awards",
+        "44",
+        "",
+        "61",
+        "",
+        "73"
+      ],
+      [
+        "Common stock and common stock equivalents (C)",
+        "7,540",
+        "",
+        "7,608",
+        "",
+        "7,683"
+      ],
+      [
+        "Earnings Per Share",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic (A/B)",
+        "$ 9.70",
+        "",
+        "$ 8.12",
+        "",
+        "$ 5.82"
+      ],
+      [
+        "Diluted (A/C)",
+        "$ 9.65",
+        "",
+        "$ 8.05",
+        "",
+        "$ 5.76"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Interest and dividends income",
+        "$ 2,094",
+        "",
+        "$ 2,131",
+        "",
+        "$ 2,680"
+      ],
+      [
+        "Interest expense",
+        "(2,063)",
+        "",
+        "(2,346)",
+        "",
+        "(2,591)"
+      ],
+      [
+        "Net recognized gains on investments",
+        "461",
+        "",
+        "1,232",
+        "",
+        "32"
+      ],
+      [
+        "Net gains (losses) on derivatives",
+        "(52)",
+        "",
+        "17",
+        "",
+        "187"
+      ],
+      [
+        "Net gains (losses) on foreign currency remeasurements",
+        "(75)",
+        "",
+        "54",
+        "",
+        "(191)"
+      ],
+      [
+        "Other, net",
+        "(32)",
+        "",
+        "98",
+        "",
+        "(40)"
+      ],
+      [
+        "Total",
+        "$ 333",
+        "",
+        "$ 1,186",
+        "",
+        "$ 77"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Realized gains from sales of available-for-sale securities",
+        "$ 162",
+        "",
+        "$ 105",
+        "",
+        "$ 50"
+      ],
+      [
+        "Realized losses from sales of available-for-sale securities",
+        "(138)",
+        "",
+        "(40)",
+        "",
+        "(37)"
+      ],
+      [
+        "Impairments and allowance for credit losses",
+        "(81)",
+        "",
+        "(2)",
+        "",
+        "(17)"
+      ],
+      [
+        "Total",
+        "$ (57)",
+        "",
+        "$ 63",
+        "",
+        "$ (4)"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Net realized gains on investments sold",
+        "$ 29",
+        "",
+        "$ 123",
+        "",
+        "$ 83"
+      ],
+      [
+        "Net unrealized gains on investments still held",
+        "509",
+        "",
+        "1,057",
+        "",
+        "69"
+      ],
+      [
+        "Impairments of investments",
+        "(20)",
+        "",
+        "(11)",
+        "",
+        "(116)"
+      ],
+      [
+        "Total",
+        "$ 518",
+        "",
+        "$ 1,169",
+        "",
+        "$ 36"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "Fair Value Level",
+        "",
+        "Adjusted Cost Basis",
+        "",
+        "Unrealized Gains",
+        "",
+        "Unrealized Losses",
+        "",
+        "Recorded Basis",
+        "",
+        "Cash and Cash Equivalents",
+        "",
+        "Short-term Investments",
+        "",
+        "Equity Investments"
+      ],
+      [
+        "June 30, 2022"
+      ],
+      [
+        "Changes in Fair Value Recorded in Other Comprehensive Income",
+        ""
+      ],
+      [
+        "Commercial paper",
+        "Level 2",
+        "",
+        "$ 2,500",
+        "",
+        "$ 0",
+        "",
+        "$ 0",
+        "",
+        "$ 2,500",
+        "",
+        "$ 2,498",
+        "",
+        "$ 2",
+        "",
+        "$ 0"
+      ],
+      [
+        "Certificates of deposit",
+        "Level 2",
+        "",
+        "2,071",
+        "",
+        "0",
+        "",
+        "0",
+        "",
+        "2,071",
+        "",
+        "2,032",
+        "",
+        "39",
+        "",
+        "0"
+      ],
+      [
+        "U.S. government securities",
+        "Level 1",
+        "",
+        "79,696",
+        "",
+        "29",
+        "",
+        "(2,178)",
+        "",
+        "77,547",
+        "",
+        "9",
+        "",
+        "77,538",
+        "",
+        "0"
+      ],
+      [
+        "U.S. agency securities",
+        "Level 2",
+        "",
+        "419",
+        "",
+        "0",
+        "",
+        "(9)",
+        "",
+        "410",
+        "",
+        "0",
+        "",
+        "410",
+        "",
+        "0"
+      ],
+      [
+        "Foreign government bonds",
+        "Level 2",
+        "",
+        "506",
+        "",
+        "0",
+        "",
+        "(24)",
+        "",
+        "482",
+        "",
+        "0",
+        "",
+        "482",
+        "",
+        "0"
+      ],
+      [
+        "Mortgage- and asset-backed securities",
+        "Level 2",
+        "",
+        "727",
+        "",
+        "1",
+        "",
+        "(30)",
+        "",
+        "698",
+        "",
+        "0",
+        "",
+        "698",
+        "",
+        "0"
+      ],
+      [
+        "Corporate notes and bonds",
+        "Level 2",
+        "",
+        "11,661",
+        "",
+        "4",
+        "",
+        "(554)",
+        "",
+        "11,111",
+        "",
+        "0",
+        "",
+        "11,111",
+        "",
+        "0"
+      ],
+      [
+        "Corporate notes and bonds",
+        "Level 3",
+        "",
+        "67",
+        "",
+        "0",
+        "",
+        "0",
+        "",
+        "67",
+        "",
+        "0",
+        "",
+        "67",
+        "",
+        "0"
+      ],
+      [
+        "Municipal securities",
+        "Level 2",
+        "",
+        "368",
+        "",
+        "19",
+        "",
+        "(13)",
+        "",
+        "374",
+        "",
+        "0",
+        "",
+        "374",
+        "",
+        "0"
+      ],
+      [
+        "Municipal securities",
+        "Level 3",
+        "",
+        "103",
+        "",
+        "0",
+        "",
+        "(6)",
+        "",
+        "97",
+        "",
+        "0",
+        "",
+        "97",
+        "",
+        "0"
+      ],
+      [
+        "Total debt investments",
+        "",
+        "",
+        "$ 98,118",
+        "",
+        "$ 53",
+        "",
+        "$ (2,814)",
+        "",
+        "$ 95,357",
+        "",
+        "$ 4,539",
+        "",
+        "$ 90,818",
+        "",
+        "$ 0"
+      ],
+      [
+        "Changes in Fair Value Recorded in Net Income",
+        ""
+      ],
+      [
+        "Equity investments",
+        "Level 1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$ 1,590",
+        "",
+        "$ 1,134",
+        "",
+        "$ 0",
+        "",
+        "$ 456"
+      ],
+      [
+        "Equity investments",
+        "Other",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "6,435",
+        "",
+        "0",
+        "",
+        "0",
+        "",
+        "6,435"
+      ],
+      [
+        "Total equity investments",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$ 8,025",
+        "",
+        "$ 1,134",
+        "",
+        "$ 0",
+        "",
+        "$ 6,891"
+      ],
+      [
+        "Cash",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$ 8,258",
+        "",
+        "$ 8,258",
+        "",
+        "$ 0",
+        "",
+        "$ 0"
+      ],
+      [
+        "Derivatives, net (a)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "8",
+        "",
+        "0",
+        "",
+        "8",
+        "",
+        "0"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$ 111,648",
+        "",
+        "$ 13,931",
+        "",
+        "$ 90,826",
+        "",
+        "$ 6,891"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "Fair Value Level",
+        "",
+        "Adjusted Cost Basis",
+        "",
+        "Unrealized Gains",
+        "",
+        "Unrealized Losses",
+        "",
+        "Recorded Basis",
+        "",
+        "Cash and Cash Equivalents",
+        "",
+        "Short-term Investments",
+        "",
+        "Equity Investments"
+      ],
+      [
+        "June 30, 2021"
+      ],
+      [
+        "Changes in Fair Value Recorded in Other Comprehensive Income",
+        ""
+      ],
+      [
+        "Commercial paper",
+        "Level 2",
+        "",
+        "$ 4,316",
+        "",
+        "$ 0",
+        "",
+        "$ 0",
+        "",
+        "$ 4,316",
+        "",
+        "$ 1,331",
+        "",
+        "$ 2,985",
+        "",
+        "$ 0"
+      ],
+      [
+        "Certificates of deposit",
+        "Level 2",
+        "",
+        "3,615",
+        "",
+        "0",
+        "",
+        "0",
+        "",
+        "3,615",
+        "",
+        "2,920",
+        "",
+        "695",
+        "",
+        "0"
+      ],
+      [
+        "U.S. government securities",
+        "Level 1",
+        "",
+        "90,664",
+        "",
+        "3,832",
+        "",
+        "(111)",
+        "",
+        "94,385",
+        "",
+        "1,500",
+        "",
+        "92,885",
+        "",
+        "0"
+      ],
+      [
+        "U.S. agency securities",
+        "Level 2",
+        "",
+        "807",
+        "",
+        "2",
+        "",
+        "0",
+        "",
+        "809",
+        "",
+        "0",
+        "",
+        "809",
+        "",
+        "0"
+      ],
+      [
+        "Foreign government bonds",
+        "Level 2",
+        "",
+        "6,213",
+        "",
+        "9",
+        "",
+        "(2)",
+        "",
+        "6,220",
+        "",
+        "225",
+        "",
+        "5,995",
+        "",
+        "0"
+      ],
+      [
+        "Mortgage- and asset-backed securities",
+        "Level 2",
+        "",
+        "3,442",
+        "",
+        "22",
+        "",
+        "(6)",
+        "",
+        "3,458",
+        "",
+        "0",
+        "",
+        "3,458",
+        "",
+        "0"
+      ],
+      [
+        "Corporate notes and bonds",
+        "Level 2",
+        "",
+        "8,443",
+        "",
+        "249",
+        "",
+        "(9)",
+        "",
+        "8,683",
+        "",
+        "0",
+        "",
+        "8,683",
+        "",
+        "0"
+      ],
+      [
+        "Corporate notes and bonds",
+        "Level 3",
+        "",
+        "63",
+        "",
+        "0",
+        "",
+        "0",
+        "",
+        "63",
+        "",
+        "0",
+        "",
+        "63",
+        "",
+        "0"
+      ],
+      [
+        "Municipal securities",
+        "Level 2",
+        "",
+        "308",
+        "",
+        "63",
+        "",
+        "0",
+        "",
+        "371",
+        "",
+        "0",
+        "",
+        "371",
+        "",
+        "0"
+      ],
+      [
+        "Municipal securities",
+        "Level 3",
+        "",
+        "95",
+        "",
+        "0",
+        "",
+        "(7)",
+        "",
+        "88",
+        "",
+        "0",
+        "",
+        "88",
+        "",
+        "0"
+      ],
+      [
+        "Total debt investments",
+        "",
+        "",
+        "$ 117,966",
+        "",
+        "$ 4,177",
+        "",
+        "$ (135)",
+        "",
+        "$ 122,008",
+        "",
+        "$ 5,976",
+        "",
+        "$ 116,032",
+        "",
+        "$ 0"
+      ],
+      [
+        "Changes in Fair Value Recorded in Net Income",
+        ""
+      ],
+      [
+        "Equity investments",
+        "Level 1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$ 1,582",
+        "",
+        "$ 976",
+        "",
+        "$ 0",
+        "",
+        "$ 606"
+      ],
+      [
+        "Equity investments",
+        "Other",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "5,378",
+        "",
+        "0",
+        "",
+        "0",
+        "",
+        "5,378"
+      ],
+      [
+        "Total equity investments",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$ 6,960",
+        "",
+        "$ 976",
+        "",
+        "$ 0",
+        "",
+        "$ 5,984"
+      ],
+      [
+        "Cash",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$ 7,272",
+        "",
+        "$ 7,272",
+        "",
+        "$ 0",
+        "",
+        "$ 0"
+      ],
+      [
+        "Derivatives, net (a)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "78",
+        "",
+        "0",
+        "",
+        "78",
+        "",
+        "0"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$ 136,318",
+        "",
+        "$ 14,224",
+        "",
+        "$ 116,110",
+        "",
+        "$ 5,984"
+      ]
+    ],
+    [
+      [
+        "",
+        "Less than 12 Months",
+        "",
+        "12 Months or Greater",
+        "",
+        "",
+        "",
+        "Total Unrealized Losses"
+      ],
+      [
+        "(In millions)",
+        "Fair Value",
+        "",
+        "Unrealized Losses",
+        "",
+        "Fair Value",
+        "",
+        "Unrealized Losses",
+        "",
+        "Total Fair Value",
+        ""
+      ],
+      [
+        "June 30, 2022"
+      ],
+      [
+        "U.S. government and agency securities",
+        "$ 59,092",
+        "",
+        "$ (1,835)",
+        "",
+        "$ 2,210",
+        "",
+        "$ (352)",
+        "",
+        "$ 61,302",
+        "",
+        "$ (2,187)"
+      ],
+      [
+        "Foreign government bonds",
+        "418",
+        "",
+        "(18)",
+        "",
+        "27",
+        "",
+        "(6)",
+        "",
+        "445",
+        "",
+        "(24)"
+      ],
+      [
+        "Mortgage- and asset-backed securities",
+        "510",
+        "",
+        "(26)",
+        "",
+        "41",
+        "",
+        "(4)",
+        "",
+        "551",
+        "",
+        "(30)"
+      ],
+      [
+        "Corporate notes and bonds",
+        "9,443",
+        "",
+        "(477)",
+        "",
+        "786",
+        "",
+        "(77)",
+        "",
+        "10,229",
+        "",
+        "(554)"
+      ],
+      [
+        "Municipal securities",
+        "178",
+        "",
+        "(12)",
+        "",
+        "74",
+        "",
+        "(7)",
+        "",
+        "252",
+        "",
+        "(19)"
+      ],
+      [
+        "Total",
+        "$ 69,641",
+        "",
+        "$ (2,368)",
+        "",
+        "$ 3,138",
+        "",
+        "$ (446)",
+        "",
+        "$ 72,779",
+        "",
+        "$ (2,814)"
+      ]
+    ],
+    [
+      [
+        "",
+        "Less than 12 Months",
+        "",
+        "12 Months or Greater",
+        "",
+        "",
+        "",
+        "Total Unrealized Losses"
+      ],
+      [
+        "(In millions)",
+        "Fair Value",
+        "",
+        "Unrealized Losses",
+        "",
+        "Fair Value",
+        "",
+        "Unrealized Losses",
+        "",
+        "Total Fair Value",
+        ""
+      ],
+      [
+        "June 30, 2021"
+      ],
+      [
+        "U.S. government and agency securities",
+        "$ 5,294",
+        "",
+        "$ (111)",
+        "",
+        "$ 0",
+        "",
+        "$ 0",
+        "",
+        "$ 5,294",
+        "",
+        "$ (111)"
+      ],
+      [
+        "Foreign government bonds",
+        "3,148",
+        "",
+        "(1)",
+        "",
+        "5",
+        "",
+        "(1)",
+        "",
+        "3,153",
+        "",
+        "(2)"
+      ],
+      [
+        "Mortgage- and asset-backed securities",
+        "1,211",
+        "",
+        "(5)",
+        "",
+        "87",
+        "",
+        "(1)",
+        "",
+        "1,298",
+        "",
+        "(6)"
+      ],
+      [
+        "Corporate notes and bonds",
+        "1,678",
+        "",
+        "(8)",
+        "",
+        "34",
+        "",
+        "(1)",
+        "",
+        "1,712",
+        "",
+        "(9)"
+      ],
+      [
+        "Municipal securities",
+        "58",
+        "",
+        "(7)",
+        "",
+        "1",
+        "",
+        "0",
+        "",
+        "59",
+        "",
+        "(7)"
+      ],
+      [
+        "Total",
+        "$ 11,389",
+        "",
+        "$ (132)",
+        "",
+        "$ 127",
+        "",
+        "$ (3)",
+        "",
+        "$ 11,516",
+        "",
+        "$ (135)"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "Adjusted Cost Basis",
+        "",
+        "Estimated Fair Value"
+      ],
+      [
+        "June 30, 2022",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Due in one year or less",
+        "$ 26,480",
+        "",
+        "$ 26,470"
+      ],
+      [
+        "Due after one year through five years",
+        "52,006",
+        "",
+        "50,748"
+      ],
+      [
+        "Due after five years through 10 years",
+        "18,274",
+        "",
+        "16,880"
+      ],
+      [
+        "Due after 10 years",
+        "1,358",
+        "",
+        "1,259"
+      ],
+      [
+        "Total",
+        "$ 98,118",
+        "",
+        "$ 95,357"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "June 30, 2022",
+        "",
+        "June 30, 2021"
+      ],
+      [
+        "Designated as Hedging Instruments",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Foreign exchange contracts purchased",
+        "$ 635",
+        "",
+        "$ 635"
+      ],
+      [
+        "Foreign exchange contracts sold",
+        "0",
+        "",
+        "6,081"
+      ],
+      [
+        "Interest rate contracts purchased",
+        "1,139",
+        "",
+        "1,247"
+      ],
+      [
+        "Not Designated as Hedging Instruments",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Foreign exchange contracts purchased",
+        "10,322",
+        "",
+        "14,223"
+      ],
+      [
+        "Foreign exchange contracts sold",
+        "21,606",
+        "",
+        "23,391"
+      ],
+      [
+        "Other contracts purchased",
+        "2,773",
+        "",
+        "2,456"
+      ],
+      [
+        "Other contracts sold",
+        "544",
+        "",
+        "763"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "Derivative Assets",
+        "",
+        "Derivative Liabilities",
+        "",
+        "Derivative Assets",
+        "",
+        "Derivative Liabilities"
+      ],
+      [
+        "",
+        "",
+        "",
+        "June 30, 2022",
+        "",
+        "",
+        "",
+        "June 30, 2021"
+      ],
+      [
+        "Designated as Hedging Instruments"
+      ],
+      [
+        "Foreign exchange contracts",
+        "$ 0",
+        "",
+        "$ (77)",
+        "",
+        "$ 76",
+        "",
+        "$ (8)"
+      ],
+      [
+        "Interest rate contracts",
+        "3",
+        "",
+        "0",
+        "",
+        "40",
+        "",
+        "0"
+      ],
+      [
+        "Not Designated as Hedging Instruments"
+      ],
+      [
+        "Foreign exchange contracts",
+        "333",
+        "",
+        "(362)",
+        "",
+        "227",
+        "",
+        "(291)"
+      ],
+      [
+        "Other contracts",
+        "20",
+        "",
+        "(112)",
+        "",
+        "56",
+        "",
+        "(36)"
+      ],
+      [
+        "Gross amounts of derivatives",
+        "356",
+        "",
+        "(551)",
+        "",
+        "399",
+        "",
+        "(335)"
+      ],
+      [
+        "Gross amounts of derivatives offset in the balance sheet",
+        "(130)",
+        "",
+        "133",
+        "",
+        "(141)",
+        "",
+        "142"
+      ],
+      [
+        "Cash collateral received",
+        "0",
+        "",
+        "(75)",
+        "",
+        "0",
+        "",
+        "(42)"
+      ],
+      [
+        "Net amounts of derivatives",
+        "$ 226",
+        "",
+        "$ (493)",
+        "",
+        "$ 258",
+        "",
+        "$ (235)"
+      ],
+      [
+        "Reported as"
+      ],
+      [
+        "Short-term investments",
+        "$ 8",
+        "",
+        "$ 0",
+        "",
+        "$ 78",
+        "",
+        "$ 0"
+      ],
+      [
+        "Other current assets",
+        "218",
+        "",
+        "0",
+        "",
+        "137",
+        "",
+        "0"
+      ],
+      [
+        "Other long-term assets",
+        "0",
+        "",
+        "0",
+        "",
+        "43",
+        "",
+        "0"
+      ],
+      [
+        "Other current liabilities",
+        "0",
+        "",
+        "(298)",
+        "",
+        "0",
+        "",
+        "(182)"
+      ],
+      [
+        "Other long-term liabilities",
+        "0",
+        "",
+        "(195)",
+        "",
+        "0",
+        "",
+        "(53)"
+      ],
+      [
+        "Total",
+        "$ 226",
+        "",
+        "$ (493)",
+        "",
+        "$ 258",
+        "",
+        "$ (235)"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "Level 1",
+        "",
+        "Level 2",
+        "",
+        "Level 3",
+        "",
+        "Total"
+      ],
+      [
+        "June 30, 2022"
+      ],
+      [
+        "Derivative assets",
+        "$ 1",
+        "",
+        "$ 349",
+        "",
+        "$ 6",
+        "",
+        "$ 356"
+      ],
+      [
+        "Derivative liabilities",
+        "0",
+        "",
+        "(551)",
+        "",
+        "0",
+        "",
+        "(551)"
+      ],
+      [
+        "June 30, 2021"
+      ],
+      [
+        "Derivative assets",
+        "0",
+        "",
+        "396",
+        "",
+        "3",
+        "",
+        "399"
+      ],
+      [
+        "Derivative liabilities",
+        "0",
+        "",
+        "(335)",
+        "",
+        "0",
+        "",
+        "(335)"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Year Ended June 30,",
+        "",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Designated as Fair Value Hedging Instruments"
+      ],
+      [
+        "Foreign exchange contracts"
+      ],
+      [
+        "Derivatives",
+        "",
+        "$ 49",
+        "",
+        "$ 193",
+        "",
+        "$ 1"
+      ],
+      [
+        "Hedged items",
+        "",
+        "(50)",
+        "",
+        "(188)",
+        "",
+        "3"
+      ],
+      [
+        "Excluded from effectiveness assessment",
+        "",
+        "4",
+        "",
+        "30",
+        "",
+        "139"
+      ],
+      [
+        "Interest rate contracts"
+      ],
+      [
+        "Derivatives",
+        "",
+        "(92)",
+        "",
+        "(37)",
+        "",
+        "93"
+      ],
+      [
+        "Hedged items",
+        "",
+        "108",
+        "",
+        "53",
+        "",
+        "(93)"
+      ],
+      [
+        "Designated as Cash Flow Hedging Instruments"
+      ],
+      [
+        "Foreign exchange contracts"
+      ],
+      [
+        "Amount reclassified from accumulated other comprehensive income",
+        "",
+        "(79)",
+        "",
+        "17",
+        "",
+        "0"
+      ],
+      [
+        "Not Designated as Hedging Instruments"
+      ],
+      [
+        "Foreign exchange contracts",
+        "",
+        "383",
+        "",
+        "27",
+        "",
+        "(123)"
+      ],
+      [
+        "Other contracts",
+        "",
+        "(72)",
+        "",
+        "9",
+        "",
+        "50"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Designated as Cash Flow Hedging Instruments"
+      ],
+      [
+        "Foreign exchange contracts"
+      ],
+      [
+        "Included in effectiveness assessment",
+        "$ (57)",
+        "",
+        "$ 34",
+        "",
+        "$ (38)"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "June 30,",
+        "",
+        "2022",
+        "",
+        "2021"
+      ],
+      [
+        "Raw materials",
+        "",
+        "$ 1,144",
+        "",
+        "$ 1,190"
+      ],
+      [
+        "Work in process",
+        "",
+        "82",
+        "",
+        "79"
+      ],
+      [
+        "Finished goods",
+        "",
+        "2,516",
+        "",
+        "1,367"
+      ],
+      [
+        "Total",
+        "",
+        "$ 3,742",
+        "",
+        "$ 2,636"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "June 30,",
+        "2022",
+        "",
+        "2021"
+      ],
+      [
+        "Land",
+        "$ 4,734",
+        "",
+        "$ 3,660"
+      ],
+      [
+        "Buildings and improvements",
+        "55,014",
+        "",
+        "43,928"
+      ],
+      [
+        "Leasehold improvements",
+        "7,819",
+        "",
+        "6,884"
+      ],
+      [
+        "Computer equipment and software",
+        "60,631",
+        "",
+        "51,250"
+      ],
+      [
+        "Furniture and equipment",
+        "5,860",
+        "",
+        "5,344"
+      ],
+      [
+        "Total, at cost",
+        "134,058",
+        "",
+        "111,066"
+      ],
+      [
+        "Accumulated depreciation",
+        "(59,660)",
+        "",
+        "(51,351)"
+      ],
+      [
+        "Total, net",
+        "$ 74,398",
+        "",
+        "$ 59,715"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Goodwill (a)",
+        "",
+        "$ 16,308"
+      ],
+      [
+        "Intangible assets",
+        "",
+        "4,365"
+      ],
+      [
+        "Other assets",
+        "",
+        "59"
+      ],
+      [
+        "Other liabilities (b)",
+        "",
+        "(1,971)"
+      ],
+      [
+        "Total",
+        "",
+        "$ 18,761"
+      ]
+    ],
+    [
+      [
+        "(In millions, except average life)",
+        "Amount",
+        "",
+        "Weighted Average Life"
+      ],
+      [
+        "Customer-related",
+        "$ 2,610",
+        "",
+        "9 years"
+      ],
+      [
+        "Technology-based",
+        "1,540",
+        "",
+        "5 years"
+      ],
+      [
+        "Marketing-related",
+        "215",
+        "",
+        "4 years"
+      ],
+      [
+        "Total",
+        "$ 4,365",
+        "",
+        "7 years"
+      ]
+    ],
+    [
+      [
+        "(In millions)"
+      ],
+      [
+        "Cash and cash equivalents",
+        "$ 766"
+      ],
+      [
+        "Goodwill",
+        "5,510"
+      ],
+      [
+        "Intangible assets",
+        "1,968"
+      ],
+      [
+        "Other assets",
+        "121"
+      ],
+      [
+        "Other liabilities",
+        "(244)"
+      ],
+      [
+        "Total",
+        "$ 8,121"
+      ]
+    ],
+    [
+      [
+        "(In millions, except average life)",
+        "Amount",
+        "",
+        "Weighted Average Life"
+      ],
+      [
+        "Technology-based",
+        "$ 1,341",
+        "",
+        "4 years"
+      ],
+      [
+        "Marketing-related",
+        "627",
+        "",
+        "11 years"
+      ],
+      [
+        "Total",
+        "$ 1,968",
+        "",
+        "6 years"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "June 30, 2020",
+        "",
+        "Acquisitions",
+        "",
+        "Other",
+        "",
+        "June 30, 2021",
+        "",
+        "Acquisitions",
+        "",
+        "Other",
+        "",
+        "June 30, 2022"
+      ],
+      [
+        "Productivity and Business Processes",
+        "$ 24,190",
+        "",
+        "$ 0",
+        "",
+        "$ 127",
+        "",
+        "$ 24,317",
+        "",
+        "$ 599",
+        "",
+        "$ (105)",
+        "",
+        "$ 24,811"
+      ],
+      [
+        "Intelligent Cloud",
+        "12,697",
+        "",
+        "505",
+        "",
+        "54",
+        "",
+        "13,256",
+        "",
+        "16,879 (b)",
+        "",
+        "47 (b)",
+        "",
+        "30,182"
+      ],
+      [
+        "More Personal Computing",
+        "6,464",
+        "",
+        "5,556 (a)",
+        "",
+        "118 (a)",
+        "",
+        "12,138",
+        "",
+        "648",
+        "",
+        "(255)",
+        "",
+        "12,531"
+      ],
+      [
+        "Total",
+        "$ 43,351",
+        "",
+        "$ 6,061",
+        "",
+        "$ 299",
+        "",
+        "$ 49,711",
+        "",
+        "$ 18,126",
+        "",
+        "$ (313)",
+        "",
+        "$ 67,524"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "Gross Carrying Amount",
+        "",
+        "Accumulated Amortization",
+        "",
+        "Net Carrying Amount",
+        "",
+        "Gross Carrying Amount",
+        "",
+        "Accumulated Amortization",
+        "",
+        "Net Carrying Amount"
+      ],
+      [
+        "June 30,",
+        "",
+        "",
+        "",
+        "",
+        "2022",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2021"
+      ],
+      [
+        "Technology-based",
+        "$ 11,277",
+        "",
+        "$ (6,958)",
+        "",
+        "$ 4,319",
+        "",
+        "$ 9,779",
+        "",
+        "$ (7,007)",
+        "",
+        "$ 2,772"
+      ],
+      [
+        "Customer-related",
+        "7,342",
+        "",
+        "(3,171)",
+        "",
+        "4,171",
+        "",
+        "4,958",
+        "",
+        "(2,859)",
+        "",
+        "2,099"
+      ],
+      [
+        "Marketing-related",
+        "4,942",
+        "",
+        "(2,143)",
+        "",
+        "2,799",
+        "",
+        "4,792",
+        "",
+        "(1,878)",
+        "",
+        "2,914"
+      ],
+      [
+        "Contract-based",
+        "16",
+        "",
+        "(7)",
+        "",
+        "9",
+        "",
+        "446",
+        "",
+        "(431)",
+        "",
+        "15"
+      ],
+      [
+        "Total",
+        "$ 23,577 (a)",
+        "",
+        "$ (12,279)",
+        "",
+        "$ 11,298",
+        "",
+        "$ 19,975 (b)",
+        "",
+        "$ (12,175)",
+        "",
+        "$ 7,800"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "Amount",
+        "Weighted Average Life",
+        "",
+        "Amount",
+        "Weighted Average Life"
+      ],
+      [
+        "Year Ended June 30,",
+        "",
+        "2022",
+        "",
+        "",
+        "2021",
+        ""
+      ],
+      [
+        "Technology-based",
+        "",
+        "$ 2,611",
+        "4 years",
+        "",
+        "$ 1,628",
+        "4 years"
+      ],
+      [
+        "Customer-related",
+        "",
+        "2,837",
+        "9 years",
+        "",
+        "96",
+        "4 years"
+      ],
+      [
+        "Marketing-related",
+        "",
+        "233",
+        "4 years",
+        "",
+        "625",
+        "6 years"
+      ],
+      [
+        "Contract-based",
+        "",
+        "0",
+        "0 years",
+        "",
+        "10",
+        "3 years"
+      ],
+      [
+        "Total",
+        "",
+        "$ 5,681",
+        "7 years",
+        "",
+        "$ 2,359",
+        "5 years"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        ""
+      ],
+      [
+        "Year Ending June 30,",
+        ""
+      ],
+      [
+        "2023",
+        "$ 2,654"
+      ],
+      [
+        "2024",
+        "2,385"
+      ],
+      [
+        "2025",
+        "1,631"
+      ],
+      [
+        "2026",
+        "1,227"
+      ],
+      [
+        "2027",
+        "809"
+      ],
+      [
+        "Thereafter",
+        "2,592"
+      ],
+      [
+        "Total",
+        "$ 11,298"
+      ]
+    ],
+    [
+      [
+        "(In millions, issuance by calendar year)",
+        "Maturities (calendar year)",
+        "",
+        "Stated Interest Rate",
+        "",
+        "Effective Interest Rate",
+        "",
+        "June 30, 2022",
+        "",
+        "June 30, 2021"
+      ],
+      [
+        "2009 issuance of $3.8 billion (a)",
+        "2039",
+        "",
+        "5.20%",
+        "",
+        "5.24%",
+        "",
+        "$ 520",
+        "",
+        "$ 520"
+      ],
+      [
+        "2010 issuance of $4.8 billion (a)",
+        "2040",
+        "",
+        "4.50%",
+        "",
+        "4.57%",
+        "",
+        "486",
+        "",
+        "486"
+      ],
+      [
+        "2011 issuance of $2.3 billion (a)",
+        "2041",
+        "",
+        "5.30%",
+        "",
+        "5.36%",
+        "",
+        "718",
+        "",
+        "718"
+      ],
+      [
+        "2012 issuance of $2.3 billion (a)",
+        "2022\u20132042",
+        "",
+        "2.13%\u20133.50%",
+        "",
+        "2.24%\u20133.57%",
+        "",
+        "1,204",
+        "",
+        "1,204"
+      ],
+      [
+        "2013 issuance of $5.2 billion (a)",
+        "2023\u20132043",
+        "",
+        "2.38%\u20134.88%",
+        "",
+        "2.47%\u20134.92%",
+        "",
+        "2,814",
+        "",
+        "2,814"
+      ],
+      [
+        "2013 issuance of \u20ac4.1 billion",
+        "2028\u20132033",
+        "",
+        "2.63%\u20133.13%",
+        "",
+        "2.69%\u20133.22%",
+        "",
+        "2,404",
+        "",
+        "4,803"
+      ],
+      [
+        "2015 issuance of $23.8 billion (a)",
+        "2022\u20132055",
+        "",
+        "2.65%\u20134.75%",
+        "",
+        "2.72%\u20134.78%",
+        "",
+        "10,805",
+        "",
+        "12,305"
+      ],
+      [
+        "2016 issuance of $19.8 billion (a)",
+        "2023\u20132056",
+        "",
+        "2.00%\u20133.95%",
+        "",
+        "2.10%\u20134.03%",
+        "",
+        "9,430",
+        "",
+        "12,180"
+      ],
+      [
+        "2017 issuance of $17.0 billion (a)",
+        "2024\u20132057",
+        "",
+        "2.88%\u20134.50%",
+        "",
+        "3.04%\u20134.53%",
+        "",
+        "8,945",
+        "",
+        "10,695"
+      ],
+      [
+        "2020 issuance of $10.0 billion (a)",
+        "2050\u20132060",
+        "",
+        "2.53%\u20132.68%",
+        "",
+        "2.53%\u20132.68%",
+        "",
+        "10,000",
+        "",
+        "10,000"
+      ],
+      [
+        "2021 issuance of $8.2 billion (a)",
+        "2052\u20132062",
+        "",
+        "2.92%\u20133.04%",
+        "",
+        "2.92%\u20133.04%",
+        "",
+        "8,185",
+        "",
+        "8,185"
+      ],
+      [
+        "Total face value",
+        "55,511",
+        "",
+        "63,910"
+      ],
+      [
+        "Unamortized discount and issuance costs",
+        "(471)",
+        "",
+        "(511)"
+      ],
+      [
+        "Hedge fair value adjustments (b)",
+        "(68)",
+        "",
+        "40"
+      ],
+      [
+        "Premium on debt exchange (a)",
+        "(5,191)",
+        "",
+        "(5,293)"
+      ],
+      [
+        "Total debt",
+        "49,781",
+        "",
+        "58,146"
+      ],
+      [
+        "Current portion of long-term debt",
+        "(2,749)",
+        "",
+        "(8,072)"
+      ],
+      [
+        "Long-term debt",
+        "$ 47,032",
+        "",
+        "$ 50,074"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        ""
+      ],
+      [
+        "Year Ending June 30,",
+        ""
+      ],
+      [
+        "2023",
+        "$ 2,750"
+      ],
+      [
+        "2024",
+        "5,250"
+      ],
+      [
+        "2025",
+        "2,250"
+      ],
+      [
+        "2026",
+        "3,000"
+      ],
+      [
+        "2027",
+        "8,000"
+      ],
+      [
+        "Thereafter",
+        "34,261"
+      ],
+      [
+        "Total",
+        "$ 55,511"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Current Taxes",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "U.S. federal",
+        "$ 8,329",
+        "",
+        "$ 3,285",
+        "",
+        "$ 3,537"
+      ],
+      [
+        "U.S. state and local",
+        "1,679",
+        "",
+        "1,229",
+        "",
+        "763"
+      ],
+      [
+        "Foreign",
+        "6,672",
+        "",
+        "5,467",
+        "",
+        "4,444"
+      ],
+      [
+        "Current taxes",
+        "$ 16,680",
+        "",
+        "$ 9,981",
+        "",
+        "$ 8,744"
+      ],
+      [
+        "Deferred Taxes",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "U.S. federal",
+        "$ (4,815)",
+        "",
+        "$ 25",
+        "",
+        "$ 58"
+      ],
+      [
+        "U.S. state and local",
+        "(1,062)",
+        "",
+        "(204)",
+        "",
+        "(6)"
+      ],
+      [
+        "Foreign",
+        "175",
+        "",
+        "29",
+        "",
+        "(41)"
+      ],
+      [
+        "Deferred taxes",
+        "$ (5,702)",
+        "",
+        "$ (150)",
+        "",
+        "$ 11"
+      ],
+      [
+        "Provision for income taxes",
+        "$ 10,978",
+        "",
+        "$ 9,831",
+        "",
+        "$ 8,755"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "U.S.",
+        "$ 47,837",
+        "",
+        "$ 34,972",
+        "",
+        "$ 24,116"
+      ],
+      [
+        "Foreign",
+        "35,879",
+        "",
+        "36,130",
+        "",
+        "28,920"
+      ],
+      [
+        "Income before income taxes",
+        "$ 83,716",
+        "",
+        "$ 71,102",
+        "",
+        "$ 53,036"
+      ]
+    ],
+    [
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Federal statutory rate",
+        "21.0%",
+        "",
+        "21.0%",
+        "",
+        "21.0%"
+      ],
+      [
+        "Effect of:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Foreign earnings taxed at lower rates",
+        "(1.3)%",
+        "",
+        "(2.7)%",
+        "",
+        "(3.7)%"
+      ],
+      [
+        "Impact of intangible property transfers",
+        "(3.9)%",
+        "",
+        "0%",
+        "",
+        "0%"
+      ],
+      [
+        "Foreign-derived intangible income deduction",
+        "(1.1)%",
+        "",
+        "(1.3)%",
+        "",
+        "(1.1)%"
+      ],
+      [
+        "State income taxes, net of federal benefit",
+        "1.4%",
+        "",
+        "1.4%",
+        "",
+        "1.3%"
+      ],
+      [
+        "Research and development credit",
+        "(0.9)%",
+        "",
+        "(0.9)%",
+        "",
+        "(1.1)%"
+      ],
+      [
+        "Excess tax benefits relating to stock-based compensation",
+        "(1.9)%",
+        "",
+        "(2.4)%",
+        "",
+        "(2.2)%"
+      ],
+      [
+        "Interest, net",
+        "0.5%",
+        "",
+        "0.5%",
+        "",
+        "1.0%"
+      ],
+      [
+        "Other reconciling items, net",
+        "(0.7)%",
+        "",
+        "(1.8)%",
+        "",
+        "1.3%"
+      ],
+      [
+        "Effective rate",
+        "13.1%",
+        "",
+        "13.8%",
+        "",
+        "16.5%"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "June 30,",
+        "2022",
+        "",
+        "2021"
+      ],
+      [
+        "Deferred Income Tax Assets",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Stock-based compensation expense",
+        "$ 601",
+        "",
+        "$ 502"
+      ],
+      [
+        "Accruals, reserves, and other expenses",
+        "2,874",
+        "",
+        "2,960"
+      ],
+      [
+        "Loss and credit carryforwards",
+        "1,546",
+        "",
+        "1,090"
+      ],
+      [
+        "Amortization",
+        "10,656",
+        "",
+        "6,346"
+      ],
+      [
+        "Leasing liabilities",
+        "4,557",
+        "",
+        "4,060"
+      ],
+      [
+        "Unearned revenue",
+        "2,876",
+        "",
+        "2,659"
+      ],
+      [
+        "Other",
+        "461",
+        "",
+        "319"
+      ],
+      [
+        "Deferred income tax assets",
+        "23,571",
+        "",
+        "17,936"
+      ],
+      [
+        "Less valuation allowance",
+        "(1,012)",
+        "",
+        "(769)"
+      ],
+      [
+        "Deferred income tax assets, net of valuation allowance",
+        "$ 22,559",
+        "",
+        "$ 17,167"
+      ],
+      [
+        "Deferred Income Tax Liabilities",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Book/tax basis differences in investments and debt",
+        "$ (174)",
+        "",
+        "$ (2,381)"
+      ],
+      [
+        "Leasing assets",
+        "(4,291)",
+        "",
+        "(3,834)"
+      ],
+      [
+        "Depreciation",
+        "(1,602)",
+        "",
+        "(1,010)"
+      ],
+      [
+        "Deferred tax on foreign earnings",
+        "(3,104)",
+        "",
+        "(2,815)"
+      ],
+      [
+        "Other",
+        "(103)",
+        "",
+        "(144)"
+      ],
+      [
+        "Deferred income tax liabilities",
+        "$ (9,274)",
+        "",
+        "$ (10,184)"
+      ],
+      [
+        "Net deferred income tax assets",
+        "$ 13,285",
+        "",
+        "$ 6,983"
+      ],
+      [
+        "Reported As",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Other long-term assets",
+        "$ 13,515",
+        "",
+        "$ 7,181"
+      ],
+      [
+        "Long-term deferred income tax liabilities",
+        "(230)",
+        "",
+        "(198)"
+      ],
+      [
+        "Net deferred income tax assets",
+        "$ 13,285",
+        "",
+        "$ 6,983"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Beginning unrecognized tax benefits",
+        "$ 14,550",
+        "",
+        "$ 13,792",
+        "",
+        "$ 13,146"
+      ],
+      [
+        "Decreases related to settlements",
+        "(317)",
+        "",
+        "(195)",
+        "",
+        "(31)"
+      ],
+      [
+        "Increases for tax positions related to the current year",
+        "1,145",
+        "",
+        "790",
+        "",
+        "647"
+      ],
+      [
+        "Increases for tax positions related to prior years",
+        "461",
+        "",
+        "461",
+        "",
+        "366"
+      ],
+      [
+        "Decreases for tax positions related to prior years",
+        "(246)",
+        "",
+        "(297)",
+        "",
+        "(331)"
+      ],
+      [
+        "Decreases due to lapsed statutes of limitations",
+        "0",
+        "",
+        "(1)",
+        "",
+        "(5)"
+      ],
+      [
+        "Ending unrecognized tax benefits",
+        "$ 15,593",
+        "",
+        "$ 14,550",
+        "",
+        "$ 13,792"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "June 30,",
+        "2022",
+        "",
+        "2021"
+      ],
+      [
+        "Productivity and Business Processes",
+        "$ 24,558",
+        "",
+        "$ 22,120"
+      ],
+      [
+        "Intelligent Cloud",
+        "19,371",
+        "",
+        "17,710"
+      ],
+      [
+        "More Personal Computing",
+        "4,479",
+        "",
+        "4,311"
+      ],
+      [
+        "Total",
+        "$ 48,408",
+        "",
+        "$ 44,141"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30, 2022",
+        "",
+        ""
+      ],
+      [
+        "Balance, beginning of period",
+        "",
+        "$ 44,141"
+      ],
+      [
+        "Deferral of revenue",
+        "",
+        "110,455"
+      ],
+      [
+        "Recognition of unearned revenue",
+        "",
+        "(106,188)"
+      ],
+      [
+        "Balance, end of period",
+        "",
+        "$ 48,408"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Operating lease cost",
+        "$ 2,461",
+        "",
+        "$ 2,127",
+        "",
+        "$ 2,043"
+      ],
+      [
+        "Finance lease cost:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Amortization of right-of-use assets",
+        "$ 980",
+        "",
+        "$ 921",
+        "",
+        "$ 611"
+      ],
+      [
+        "Interest on lease liabilities",
+        "429",
+        "",
+        "386",
+        "",
+        "336"
+      ],
+      [
+        "Total finance lease cost",
+        "$ 1,409",
+        "",
+        "$ 1,307",
+        "",
+        "$ 947"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Cash paid for amounts included in the measurement of lease liabilities:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating cash flows from operating leases",
+        "$ 2,368",
+        "",
+        "$ 2,052",
+        "",
+        "$ 1,829"
+      ],
+      [
+        "Operating cash flows from finance leases",
+        "429",
+        "",
+        "386",
+        "",
+        "336"
+      ],
+      [
+        "Financing cash flows from finance leases",
+        "896",
+        "",
+        "648",
+        "",
+        "409"
+      ],
+      [
+        "Right-of-use assets obtained in exchange for lease obligations:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating leases",
+        "5,268",
+        "",
+        "4,380",
+        "",
+        "3,677"
+      ],
+      [
+        "Finance leases",
+        "4,234",
+        "",
+        "3,290",
+        "",
+        "3,467"
+      ]
+    ],
+    [
+      [
+        "(In millions, except lease term and discount rate)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "June 30,",
+        "2022",
+        "",
+        "2021"
+      ],
+      [
+        "Operating Leases",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating lease right-of-use assets",
+        "$ 13,148",
+        "",
+        "$ 11,088"
+      ],
+      [
+        "Other current liabilities",
+        "$ 2,228",
+        "",
+        "$ 1,962"
+      ],
+      [
+        "Operating lease liabilities",
+        "11,489",
+        "",
+        "9,629"
+      ],
+      [
+        "Total operating lease liabilities",
+        "$ 13,717",
+        "",
+        "$ 11,591"
+      ],
+      [
+        "Finance Leases",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Property and equipment, at cost",
+        "$ 17,388",
+        "",
+        "$ 14,107"
+      ],
+      [
+        "Accumulated depreciation",
+        "(3,285)",
+        "",
+        "(2,306)"
+      ],
+      [
+        "Property and equipment, net",
+        "$ 14,103",
+        "",
+        "$ 11,801"
+      ],
+      [
+        "Other current liabilities",
+        "$ 1,060",
+        "",
+        "$ 791"
+      ],
+      [
+        "Other long-term liabilities",
+        "13,842",
+        "",
+        "11,750"
+      ],
+      [
+        "Total finance lease liabilities",
+        "$ 14,902",
+        "",
+        "$ 12,541"
+      ],
+      [
+        "Weighted Average Remaining Lease Term",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating leases",
+        "8 years",
+        "",
+        "8 years"
+      ],
+      [
+        "Finance leases",
+        "12 years",
+        "",
+        "12 years"
+      ],
+      [
+        "Weighted Average Discount Rate",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating leases",
+        "2.1%",
+        "",
+        "2.2%"
+      ],
+      [
+        "Finance leases",
+        "3.1%",
+        "",
+        "3.4%"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ending June 30,",
+        "Operating Leases",
+        "",
+        "Finance Leases"
+      ],
+      [
+        "2023",
+        "$ 2,456",
+        "",
+        "$ 1,477"
+      ],
+      [
+        "2024",
+        "2,278",
+        "",
+        "1,487"
+      ],
+      [
+        "2025",
+        "1,985",
+        "",
+        "1,801"
+      ],
+      [
+        "2026",
+        "1,625",
+        "",
+        "1,483"
+      ],
+      [
+        "2027",
+        "1,328",
+        "",
+        "1,489"
+      ],
+      [
+        "Thereafter",
+        "5,332",
+        "",
+        "9,931"
+      ],
+      [
+        "Total lease payments",
+        "15,004",
+        "",
+        "17,668"
+      ],
+      [
+        "Less imputed interest",
+        "(1,287)",
+        "",
+        "(2,766)"
+      ],
+      [
+        "Total",
+        "$ 13,717",
+        "",
+        "$ 14,902"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Balance, beginning of year",
+        "7,519",
+        "",
+        "7,571",
+        "",
+        "7,643"
+      ],
+      [
+        "Issued",
+        "40",
+        "",
+        "49",
+        "",
+        "54"
+      ],
+      [
+        "Repurchased",
+        "(95)",
+        "",
+        "(101)",
+        "",
+        "(126)"
+      ],
+      [
+        "Balance, end of year",
+        "7,464",
+        "",
+        "7,519",
+        "",
+        "7,571"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "Shares",
+        "",
+        "Amount",
+        "",
+        "Shares",
+        "",
+        "Amount",
+        "",
+        "Shares",
+        "",
+        "Amount"
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "2021",
+        "2020"
+      ],
+      [
+        "First Quarter",
+        "21",
+        "",
+        "$ 6,200",
+        "",
+        "25",
+        "",
+        "$ 5,270",
+        "",
+        "29",
+        "",
+        "$ 4,000"
+      ],
+      [
+        "Second Quarter",
+        "20",
+        "",
+        "6,233",
+        "",
+        "27",
+        "",
+        "5,750",
+        "",
+        "32",
+        "",
+        "4,600"
+      ],
+      [
+        "Third Quarter",
+        "26",
+        "",
+        "7,800",
+        "",
+        "25",
+        "",
+        "5,750",
+        "",
+        "37",
+        "",
+        "6,000"
+      ],
+      [
+        "Fourth Quarter",
+        "28",
+        "",
+        "7,800",
+        "",
+        "24",
+        "",
+        "6,200",
+        "",
+        "28",
+        "",
+        "5,088"
+      ],
+      [
+        "Total",
+        "95",
+        "",
+        "$ 28,033",
+        "",
+        "101",
+        "",
+        "$ 22,970",
+        "",
+        "126",
+        "",
+        "$ 19,688"
+      ]
+    ],
+    [
+      [
+        "Declaration Date",
+        "Record Date",
+        "Payment Date",
+        "",
+        "Dividend Per Share",
+        "",
+        "Amount"
+      ],
+      [
+        "Fiscal Year 2022",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(In millions)"
+      ],
+      [
+        "September 14, 2021",
+        "November 18, 2021",
+        "December 9, 2021",
+        "",
+        "$ 0.62",
+        "",
+        "$ 4,652"
+      ],
+      [
+        "December 7, 2021",
+        "February 17, 2022",
+        "March 10, 2022",
+        "",
+        "0.62",
+        "",
+        "4,645"
+      ],
+      [
+        "March 14, 2022",
+        "May 19, 2022",
+        "June 9, 2022",
+        "",
+        "0.62",
+        "",
+        "4,632"
+      ],
+      [
+        "June 14, 2022",
+        "August 18, 2022",
+        "September 8, 2022",
+        "",
+        "0.62",
+        "",
+        "4,627"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "$ 2.48",
+        "",
+        "$ 18,556"
+      ],
+      [
+        "Fiscal Year 2021",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "September 15, 2020",
+        "November 19, 2020",
+        "December 10, 2020",
+        "",
+        "$ 0.56",
+        "",
+        "$ 4,230"
+      ],
+      [
+        "December 2, 2020",
+        "February 18, 2021",
+        "March 11, 2021",
+        "",
+        "0.56",
+        "",
+        "4,221"
+      ],
+      [
+        "March 16, 2021",
+        "May 20, 2021",
+        "June 10, 2021",
+        "",
+        "0.56",
+        "",
+        "4,214"
+      ],
+      [
+        "June 16, 2021",
+        "August 19, 2021",
+        "September 9, 2021",
+        "",
+        "0.56",
+        "",
+        "4,206"
+      ],
+      [
+        "Total",
+        "",
+        "",
+        "",
+        "$ 2.24",
+        "",
+        "$ 16,871"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Derivatives",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Balance, beginning of period",
+        "$ (19)",
+        "",
+        "$ (38)",
+        "",
+        "$ 0"
+      ],
+      [
+        "Unrealized gains (losses), net of tax of $(15), $9, and $(10)",
+        "(57)",
+        "",
+        "34",
+        "",
+        "(38)"
+      ],
+      [
+        "Reclassification adjustments for (gains) losses included in other income (expense), net",
+        "79",
+        "",
+        "(17)",
+        "",
+        "0"
+      ],
+      [
+        "Tax expense (benefit) included in provision for income taxes",
+        "(16)",
+        "",
+        "2",
+        "",
+        "0"
+      ],
+      [
+        "Amounts reclassified from accumulated other comprehensive income (loss)",
+        "63",
+        "",
+        "(15)",
+        "",
+        "0"
+      ],
+      [
+        "Net change related to derivatives, net of tax of $1, $7, and $(10)",
+        "6",
+        "",
+        "19",
+        "",
+        "(38)"
+      ],
+      [
+        "Balance, end of period",
+        "$ (13)",
+        "",
+        "$ (19)",
+        "",
+        "$ (38)"
+      ],
+      [
+        "Investments",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Balance, beginning of period",
+        "$ 3,222",
+        "",
+        "$ 5,478",
+        "",
+        "$ 1,488"
+      ],
+      [
+        "Unrealized gains (losses), net of tax of $(1,440), $(589), and $1,057",
+        "(5,405)",
+        "",
+        "(2,216)",
+        "",
+        "3,987"
+      ],
+      [
+        "Reclassification adjustments for (gains) losses included in other income (expense), net",
+        "57",
+        "",
+        "(63)",
+        "",
+        "4"
+      ],
+      [
+        "Tax expense (benefit) included in provision for income taxes",
+        "(12)",
+        "",
+        "13",
+        "",
+        "(1)"
+      ],
+      [
+        "Amounts reclassified from accumulated other comprehensive income (loss)",
+        "45",
+        "",
+        "(50)",
+        "",
+        "3"
+      ],
+      [
+        "Net change related to investments, net of tax of $(1,428), $(602), and $1,058",
+        "(5,360)",
+        "",
+        "(2,266)",
+        "",
+        "3,990"
+      ],
+      [
+        "Cumulative effect of accounting changes",
+        "0",
+        "",
+        "10",
+        "",
+        "0"
+      ],
+      [
+        "Balance, end of period",
+        "$ (2,138)",
+        "",
+        "$ 3,222",
+        "",
+        "$ 5,478"
+      ],
+      [
+        "Translation Adjustments and Other",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Balance, beginning of period",
+        "$ (1,381)",
+        "",
+        "$ (2,254)",
+        "",
+        "$ (1,828)"
+      ],
+      [
+        "Translation adjustments and other, net of tax effects of $0, $(9), and $1",
+        "(1,146)",
+        "",
+        "873",
+        "",
+        "(426)"
+      ],
+      [
+        "Balance, end of period",
+        "$ (2,527)",
+        "",
+        "$ (1,381)",
+        "",
+        "$ (2,254)"
+      ],
+      [
+        "Accumulated other comprehensive income (loss), end of period",
+        "$ (4,678)",
+        "",
+        "$ 1,822",
+        "",
+        "$ 3,186"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Stock-based compensation expense",
+        "$ 7,502",
+        "",
+        "$ 6,118",
+        "",
+        "$ 5,289"
+      ],
+      [
+        "Income tax benefits related to stock-based compensation",
+        "1,293",
+        "",
+        "1,065",
+        "",
+        "938"
+      ]
+    ],
+    [
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Dividends per share (quarterly amounts)",
+        "$ 0.56 \u2013 0.62",
+        "",
+        "$ 0.51 \u2013 0.56",
+        "",
+        "$ 0.46 \u2013 0.51"
+      ],
+      [
+        "Interest rates",
+        "0.03% \u2013 3.6%",
+        "",
+        "0.01% \u2013 1.5%",
+        "",
+        "0.1% \u2013 2.2%"
+      ]
+    ],
+    [
+      [
+        "Shares",
+        "",
+        "Weighted Average Grant-Date Fair Value"
+      ],
+      [
+        "",
+        "(In millions)",
+        "",
+        ""
+      ],
+      [
+        "Stock Awards",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nonvested balance, beginning of year",
+        "100",
+        "",
+        "$ 152.51"
+      ],
+      [
+        "Granted (a)",
+        "50",
+        "",
+        "291.22"
+      ],
+      [
+        "Vested",
+        "(47)",
+        "",
+        "143.10"
+      ],
+      [
+        "Forfeited",
+        "(10)",
+        "",
+        "189.88"
+      ],
+      [
+        "Nonvested balance, end of year",
+        "93",
+        "",
+        "$ 227.59"
+      ]
+    ],
+    [
+      [
+        "(Shares in millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Shares purchased",
+        "7",
+        "",
+        "8",
+        "",
+        "9"
+      ],
+      [
+        "Average price per share",
+        "$ 259.55",
+        "",
+        "$ 207.88",
+        "",
+        "$ 142.22"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Revenue",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Productivity and Business Processes",
+        "$ 63,364",
+        "",
+        "$ 53,915",
+        "",
+        "$ 46,398"
+      ],
+      [
+        "Intelligent Cloud",
+        "75,251",
+        "",
+        "60,080",
+        "",
+        "48,366"
+      ],
+      [
+        "More Personal Computing",
+        "59,655",
+        "",
+        "54,093",
+        "",
+        "48,251"
+      ],
+      [
+        "Total",
+        "$ 198,270",
+        "",
+        "$ 168,088",
+        "",
+        "$ 143,015"
+      ],
+      [
+        "Operating Income",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Productivity and Business Processes",
+        "$ 29,687",
+        "",
+        "$ 24,351",
+        "",
+        "$ 18,724"
+      ],
+      [
+        "Intelligent Cloud",
+        "32,721",
+        "",
+        "26,126",
+        "",
+        "18,324"
+      ],
+      [
+        "More Personal Computing",
+        "20,975",
+        "",
+        "19,439",
+        "",
+        "15,911"
+      ],
+      [
+        "Total",
+        "$ 83,383",
+        "",
+        "$ 69,916",
+        "",
+        "$ 52,959"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "United States (a)",
+        "$ 100,218",
+        "",
+        "$ 83,953",
+        "",
+        "$ 73,160"
+      ],
+      [
+        "Other countries",
+        "98,052",
+        "",
+        "84,135",
+        "",
+        "69,855"
+      ],
+      [
+        "Total",
+        "$ 198,270",
+        "",
+        "$ 168,088",
+        "",
+        "$ 143,015"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Year Ended June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "Server products and cloud services",
+        "$ 67,321",
+        "",
+        "$ 52,589",
+        "",
+        "$ 41,379"
+      ],
+      [
+        "Office products and cloud services",
+        "44,862",
+        "",
+        "39,872",
+        "",
+        "35,316"
+      ],
+      [
+        "Windows",
+        "24,761",
+        "",
+        "22,488",
+        "",
+        "21,510"
+      ],
+      [
+        "Gaming",
+        "16,230",
+        "",
+        "15,370",
+        "",
+        "11,575"
+      ],
+      [
+        "LinkedIn",
+        "13,816",
+        "",
+        "10,289",
+        "",
+        "8,077"
+      ],
+      [
+        "Search and news advertising",
+        "11,591",
+        "",
+        "9,267",
+        "",
+        "8,524"
+      ],
+      [
+        "Enterprise Services",
+        "7,407",
+        "",
+        "6,943",
+        "",
+        "6,409"
+      ],
+      [
+        "Devices",
+        "6,991",
+        "",
+        "6,791",
+        "",
+        "6,457"
+      ],
+      [
+        "Other",
+        "5,291",
+        "",
+        "4,479",
+        "",
+        "3,768"
+      ],
+      [
+        "Total",
+        "$ 198,270",
+        "",
+        "$ 168,088",
+        "",
+        "$ 143,015"
+      ]
+    ],
+    [
+      [
+        "(In millions)",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "June 30,",
+        "2022",
+        "",
+        "2021",
+        "",
+        "2020"
+      ],
+      [
+        "United States",
+        "$ 106,430",
+        "",
+        "$ 76,153",
+        "",
+        "$ 60,789"
+      ],
+      [
+        "Ireland",
+        "15,505",
+        "",
+        "13,303",
+        "",
+        "12,734"
+      ],
+      [
+        "Other countries",
+        "44,433",
+        "",
+        "38,858",
+        "",
+        "29,770"
+      ],
+      [
+        "Total",
+        "$ 166,368",
+        "",
+        "$ 128,314",
+        "",
+        "$ 103,293"
+      ]
+    ]
+  ]
+}

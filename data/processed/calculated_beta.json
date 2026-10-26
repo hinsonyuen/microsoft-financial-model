@@ -1,0 +1,11 @@
+{
+  "beta": 1.0527416388506674,
+  "observations": 58,
+  "first_month": "2021-11",
+  "last_month": "2026-09",
+  "method": "OLS slope, monthly adjusted-close simple returns, MSFT versus S&P 500 price index (not a total-return benchmark); excludes partial current month",
+  "source_files": [
+    "data/raw/msft_prices.json",
+    "data/raw/benchmark_prices.json"
+  ]
+}

@@ -1,0 +1,17 @@
+ppt/slides/slide1.xml
+[Image-based slide: open original PowerPoint. No text-layer content extracted.]
+
+ppt/slides/slide2.xml
+[Image-based slide: open original PowerPoint. No text-layer content extracted.]
+
+ppt/slides/slide3.xml
+[Image-based slide: open original PowerPoint. No text-layer content extracted.]
+
+ppt/slides/slide4.xml
+[Image-based slide: open original PowerPoint. No text-layer content extracted.]
+
+ppt/slides/slide5.xml
+[Image-based slide: open original PowerPoint. No text-layer content extracted.]
+
+ppt/slides/slide6.xml
+[Image-based slide: open original PowerPoint. No text-layer content extracted.]

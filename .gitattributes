@@ -1,0 +1,5 @@
+# Preserve downloaded bytes so manifest hashes survive Git checkout.
+data/raw/** -text
+data/processed/** -text
+*.py text eol=lf
+*.md text eol=lf
